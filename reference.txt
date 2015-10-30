@@ -1,0 +1,20 @@
+https://github.com/scraperwiki/code-scraper-in-browser-tool
+
+
+GIS reference:
+ftp://ftp2.census.gov/geo/tiger/KML/2010_Proto/2010county_dt/
+ftp://ftp2.census.gov/geo/tiger/KML/2010_Proto/2010county_dt/2010dtcounty_39.kml
+http://geojson.io/#id=gist:jalbertbowden/268f4f4cb3c76ba6db78&map=8/40.394/-82.669
+https://gist.github.com/jalbertbowden/268f4f4cb3c76ba6db78
+
+For reference:
+Inmates released by county, institution, gender
+https://hall-of-justice.herokuapp.com/data/3130bac5-ef03-4674-9b1c-0606c78a6cf4/
+Ohio Reentry Resource Center
+http://www.drc.ohio.gov/web/reentry_resource.htm
+Halfway houses annual report
+https://hall-of-justice.herokuapp.com/data/6444c3b6-0fcb-4ad8-8bd2-88fb8be6c189/
+County profile information (labor statistics, social programs)
+http://jfs.ohio.gov/county/cntypro/index.stm
+Parole workload (monthly)
+http://www.drc.ohio.gov/web/Reports/reports4.asp
