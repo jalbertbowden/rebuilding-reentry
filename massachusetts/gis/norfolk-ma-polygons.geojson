@@ -1,0 +1,6 @@
+var countyNorfolk = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Norfolk","courtCommitmentsPer100K2011":"14","courtCommitmentsPer100K2012":"13","courtCommitmentsPer100K2013":"15","courtCommitmentsPer100K2014":"16"}
+"releasesPerCountyPer100K2011":"19","releasesPerCountyPer100K2012":"23","releasesPerCountyPer100K2013":"20","releasesPerCountyPer100K2014":"21"
+"laborStats2011":"6.1","laborStats2012":"5.7","laborStats2013":"5.8","laborStats2014":"5.1"
+"totalReleasesByCountyByYear2011":"128","totalReleasesByCountyByYear2012":"156137","totalReleasesByCountyByYear2014":"143"

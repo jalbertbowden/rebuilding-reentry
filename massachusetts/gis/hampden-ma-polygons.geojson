@@ -1,0 +1,6 @@
+var countyHampden = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Hampden","courtCommitmentsPer100K2011":"58","courtCommitmentsPer100K2012":"59","courtCommitmentsPer100K2013":"48","courtCommitmentsPer100K2014":"42"}
+"releasesPerCountyPer100K2011":"62","releasesPerCountyPer100K2012":"63","releasesPerCountyPer100K2013":"61","releasesPerCountyPer100K2014":"59"
+"laborStats2011":"9.3","laborStats2012":"9","laborStats2013":"9.2","laborStats2014":"7.6"
+"totalReleasesByCountyByYear2011":"285","totalReleasesByCountyByYear2012":"292285","totalReleasesByCountyByYear2014":"276"

@@ -1,0 +1,7 @@
+var countyNantucket = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Nantucket","courtCommitmentsPer100K2011":"0","courtCommitmentsPer100K2012":"0","courtCommitmentsPer100K2013":"29","courtCommitmentsPer100K2014":"20"}
+"releasesPerCountyPer100K2011":"0","releasesPerCountyPer100K2012":"0","releasesPerCountyPer100K2013":"10","releasesPerCountyPer100K2014":"0"
+"laborStats2011":"4.4","laborStats2012":"4","laborStats2013":"3.5","laborStats2014":"3.5"
+"totalReleasesByCountyByYear2011":"0","totalReleasesByCountyByYear2012":"01","totalReleasesByCountyByYear2014":"0"
+

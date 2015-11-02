@@ -1,0 +1,7 @@
+var countyEssex = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Essex","courtCommitmentsPer100K2011":"42","courtCommitmentsPer100K2012":"35","courtCommitmentsPer100K2013":"37","courtCommitmentsPer100K2014":"33"}
+"releasesPerCountyPer100K2011":"35","releasesPerCountyPer100K2012":"28","releasesPerCountyPer100K2013":"35","releasesPerCountyPer100K2014":"32"
+"laborStats2011":"7.3","laborStats2012":"6.9","laborStats2013":"6.9","laborStats2014":"6"
+"totalReleasesByCountyByYear2011":"262","totalReleasesByCountyByYear2012":"230285","totalReleasesByCountyByYear2014":"258"
+

@@ -1,0 +1,6 @@
+var countyBristol = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Bristol","courtCommitmentsPer100K2011":"42","courtCommitmentsPer100K2012":"51","courtCommitmentsPer100K2013":"43","courtCommitmentsPer100K2014":"47"}
+"releasesPerCountyPer100K2011":"29","releasesPerCountyPer100K2012":"36","releasesPerCountyPer100K2013":"38","releasesPerCountyPer100K2014":"38"
+"laborStats2011":"8.8","laborStats2012":"8.5","laborStats2013":"8.5","laborStats2014":"6.9"
+"totalReleasesByCountyByYear2011":"156","totalReleasesByCountyByYear2012":"200189","totalReleasesByCountyByYear2014":"192"

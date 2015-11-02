@@ -1,0 +1,6 @@
+var countyBarnstable = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Barnstable","courtCommitmentsPer100K2011":"24","courtCommitmentsPer100K2012":21","courtCommitmentsPer100K2013":"29","courtCommitmentsPer100K2014":"25"}
+"releasesPerCountyPer100K2011":"17","releasesPerCountyPer100K2012":"31","releasesPerCountyPer100K2013":"20","releasesPerCountyPer100K2014":"40"
+"laborStats2011":"6.6","laborStats2012":"6.1","laborStats2013":"6","laborStats2014":"5.6"
+"totalReleasesByCountyByYear2011":"36","totalReleasesByCountyByYear2012":"67","totalReleasesByCountyByYear2013":"44","totalReleasesByCountyByYear2014":"52"

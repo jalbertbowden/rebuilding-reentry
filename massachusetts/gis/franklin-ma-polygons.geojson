@@ -1,0 +1,6 @@
+var countyFranklin = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Franklin","courtCommitmentsPer100K2011":"31","courtCommitmentsPer100K2012":"48","courtCommitmentsPer100K2013":"39","courtCommitmentsPer100K2014":"41"}
+"releasesPerCountyPer100K2011":"17","releasesPerCountyPer100K2012":"31","releasesPerCountyPer100K2013":"43","releasesPerCountyPer100K2014":"34"
+"laborStats2011":"6.1","laborStats2012":"5.9","laborStats2013":"5.9","laborStats2014":"5.1"
+"totalReleasesByCountyByYear2011":"12","totalReleasesByCountyByYear2012":"2231","totalReleasesByCountyByYear2014":"24"

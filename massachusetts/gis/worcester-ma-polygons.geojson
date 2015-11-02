@@ -1,0 +1,7 @@
+var countyWorcester = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Worcester","courtCommitmentsPer100K2011":"31","courtCommitmentsPer100K2012":"29","courtCommitmentsPer100K2013":"31","courtCommitmentsPer100K2014":"32"}
+"releasesPerCountyPer100K2011":"38","releasesPerCountyPer100K2012":"49","releasesPerCountyPer100K2013":"47","releasesPerCountyPer100K2014":"21"
+"laborStats2011":"7.6","laborStats2012":"7.2","laborStats2013":"7.3","laborStats2014":"6"
+"totalReleasesByCountyByYear2011":"307","totalReleasesByCountyByYear2012":"369356","totalReleasesByCountyByYear2014":"324"";
+

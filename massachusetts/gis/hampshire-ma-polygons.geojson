@@ -1,0 +1,7 @@
+var countyHampshire = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Hampshire","courtCommitmentsPer100K2011":"13","courtCommitmentsPer100K2012":"18","courtCommitmentsPer100K2013":"11","courtCommitmentsPer100K2014":"16"}
+"releasesPerCountyPer100K2011":"8","releasesPerCountyPer100K2012":"13","releasesPerCountyPer100K2013":"8","releasesPerCountyPer100K2014":"14"
+"laborStats2011":"5.7","laborStats2012":"5.5","laborStats2013":"5.8","laborStats2014":"5"
+"totalReleasesByCountyByYear2011":"12","totalReleasesByCountyByYear2012":"2013","totalReleasesByCountyByYear2014":"22"
+

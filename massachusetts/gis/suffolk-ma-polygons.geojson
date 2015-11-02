@@ -1,0 +1,7 @@
+var countySuffolk = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Suffolk","courtCommitmentsPer100K2011":"58","courtCommitmentsPer100K2012":"53","courtCommitmentsPer100K2013":"57","courtCommitmentsPer100K2014":"57"}
+"releasesPerCountyPer100K2011":"63","releasesPerCountyPer100K2012":"81","releasesPerCountyPer100K2013":"74","releasesPerCountyPer100K2014":"69"
+"laborStats2011":"6.6","laborStats2012":"6.4","laborStats2013":"6.4","laborStats2014":"5.5"
+"totalReleasesByCountyByYear2011":"457","totalReleasesByCountyByYear2012":"600555","totalReleasesByCountyByYear2014":"521"
+

@@ -1,0 +1,7 @@
+var countyPlymouth = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Plymouth","courtCommitmentsPer100K2011":"25","courtCommitmentsPer100K2012":"23","courtCommitmentsPer100K2013":"23","courtCommitmentsPer100K2014":"31"}
+"releasesPerCountyPer100K2011":"34","releasesPerCountyPer100K2012":"44","releasesPerCountyPer100K2013":"40","releasesPerCountyPer100K2014":"37"
+"laborStats2011":"7.3","laborStats2012":"6.9","laborStats2013":"6.9","laborStats2014":"5.9"
+"totalReleasesByCountyByYear2011":"167","totalReleasesByCountyByYear2012":"221221","totalReleasesByCountyByYear2014":"202"
+

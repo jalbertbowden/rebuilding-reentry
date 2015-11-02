@@ -1,0 +1,17 @@
+/*
+barnstable-ma-polygons.geojson
+berkshire-ma-polygons.geojson
+bristol-ma-polygons.geojson
+dukes-ma-polygons.geojson
+essex-ma-polygons.geojson
+franklin-ma-polygons.geojson
+hampden-ma-polygons.geojson
+hampshire-ma-polygons.geojson
+middlesex-ma-polygons.geojson
+nantucket-ma-polygons.geojson
+norfolk-ma-polygons.geojson
+plymouth-ma-polygons.geojson
+suffolk-ma-polygons.geojson
+worcester-ma-polygons.geojson
+*/
+var countyMassachusettsGeoJSON = countyBarnstable + countyBerkshire + countyBristol + countyDukes + countyEssex + countyFranklin + countyHampden + countyHampshire + countyMiddlesex + countyNantucket + countyNorfolk + countyPlymouth + countySuffolk + countyWorcester;

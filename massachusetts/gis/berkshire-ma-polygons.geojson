@@ -1,0 +1,6 @@
+var countyBerkshire = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Berkshire","courtCommitmentsPer100K2011":"43","courtCommitmentsPer100K2012":"34","courtCommitmentsPer100K2013":"36","courtCommitmentsPer100K2014":"34"}
+"releasesPerCountyPer100K2011":"25","releasesPerCountyPer100K2012":"23","releasesPerCountyPer100K2013":"31","releasesPerCountyPer100K2014":"20"
+"laborStats2011":"6.9","laborStats2012":"6.6","laborStats2013":"6.7","laborStats2014":"6"
+"totalReleasesByCountyByYear2011":"33","totalReleasesByCountyByYear2012":"3040","totalReleasesByCountyByYear2014":"43"

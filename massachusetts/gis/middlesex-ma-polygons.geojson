@@ -1,0 +1,6 @@
+var countyMiddlesex = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Middlesex","courtCommitmentsPer100K2011":"20","courtCommitmentsPer100K2012":"18","courtCommitmentsPer100K2013":"17","courtCommitmentsPer100K2014":"14"}
+"releasesPerCountyPer100K2011":"22","releasesPerCountyPer100K2012":"25","releasesPerCountyPer100K2013":"24","releasesPerCountyPer100K2014":"45"
+"laborStats2011":"5.7","laborStats2012":"5.4","laborStats2013":"5.4","laborStats2014":"4.7"
+"totalReleasesByCountyByYear2011":"327","totalReleasesByCountyByYear2012":"385363","totalReleasesByCountyByYear2014":"341"

@@ -1,0 +1,6 @@
+var countyDukes = "{"type":"FeatureCollection","features":
+	[{"type":"Feature","properties":
+		{"County":"Dukes","courtCommitmentsPer100K2011":"6","courtCommitmentsPer100K2012":"36","courtCommitmentsPer100K2013":"18","courtCommitmentsPer100K2014":"18"}
+"releasesPerCountyPer100K2011":"6","releasesPerCountyPer100K2012":"12","releasesPerCountyPer100K2013":"12","releasesPerCountyPer100K2014":"0"
+"laborStats2011":"5.4","laborStats2012":"5.1","laborStats2013":"5.3","laborStats2014":"5.2"
+"totalReleasesByCountyByYear2011":"2","totalReleasesByCountyByYear2012":"22","totalReleasesByCountyByYear2014":"0"
