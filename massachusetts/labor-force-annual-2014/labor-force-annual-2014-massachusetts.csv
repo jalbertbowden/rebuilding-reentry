@@ -1,0 +1,26 @@
+ID,Area Type,Area,Period Year,Period Type,Period,Adjusted,Labor Force,Emplab,Unemployed,Unemployment Rate,Seasaonally Adjusted,Areatype Name,Area Name
+1000025,1,25,2014,3,1,1,3526500,3312000,214500,6.1,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,2,1,3533500,3321700,211700,6,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,3,1,3539600,3330500,209200,5.9,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,4,1,3545000,3337900,207100,5.8,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,5,1,3550100,3344600,205500,5.8,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,6,1,3555500,3351500,204000,5.7,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,7,1,3561200,3358700,202400,5.7,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,8,1,3567100,3366400,200700,5.6,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,9,1,3572900,3374300,198500,5.6,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,10,1,3578200,3382100,196000,5.5,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,11,1,3582800,3389300,193500,5.4,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,12,1,3586600,3395200,191400,5.3,Seasonally Adjusted,State,Massachusetts
+1000025,1,25,2014,3,1,0,3503600,3263200,240300,6.9,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,2,0,3509000,3277900,231100,6.6,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,3,0,3523800,3303000,220800,6.3,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,4,0,3510900,3316500,194400,5.5,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,5,0,3525400,3328000,197300,5.6,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,6,0,3596000,3381200,214800,6,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,7,0,3609200,3391400,217800,6,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,8,0,3606500,3401500,204900,5.7,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,9,0,3560200,3358700,201500,5.7,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,10,0,3580400,3401000,179400,5,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,11,0,3587900,3408600,179300,5,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,3,12,0,3576900,3400800,176000,4.9,Not Adjusted,State,Massachusetts
+1000025,1,25,2014,1,0,0,3557500,3352700,204800,5.8,Not Adjusted,State,Massachusetts
