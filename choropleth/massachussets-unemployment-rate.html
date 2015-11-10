@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Massachusetts Choropleth - Rebuilding Re-Entry</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="leaflet.css" />
+    <link rel="stylesheet" href="demo.css" />
+<style>
+html,body,ul,ol,header,h1,h4,li,.h1-pagetitle,.main-content,.content{margin:0; padding:0}
+.h1-pagetitle{z-index:10; text-align:center; position:absolute; width:100%; height:30px; background-color:#fff}
+.content .main-content{position:relative;}
+h1.h1-page{text-align:center; font-family:Georgia; font-size:20px; line-height:1.5}
+.citations,.infolist,.info.legend{list-style-type:none}
+
+.citations li{display:inline-block; padding-right:3px}
+
+
+.citations{}
+.citations li{}
+.citations a{}
+.citations abbr{text-decoration:none; font-variant:small-caps}
+.leafletjs{}
+.osm{}
+.cc{}
+.mapbox{}
+
+
+.infotitle{}
+.infolist{}
+.infolist li{}
+.infolist b{}
+.infolist sup{}
+</style>
+  </head>
+  <body>
+    <div class="content">
+      <header><h1 class="h1-page">County Unemployment Rate 2014 Massachusetts</h1></header>
+      <div class="main-content">
+        <div id="map"></div>
+
+      </div>
+    </div>
+  </body>
+<script src="leaflet2.js"></script>
+<script src="massachussets-counties-2010.geojson"></script>
+<script>
+var map = L.map('map').setView([42.300, -71.8000], 7.75);
+L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
+	maxZoom: 18,
+	attribution: '<ul class="citations"><li><a href="http://leafletjs.com" class="leafletjs">Leaflet&#45; A <abbr title="JavaScript">js</abbr> library for interactive maps</a></li><li>&#32;Map data &copy;&#32;</li><li><a class="osm" href="http://openstreetmap.org"> OpenStreetMap </a></li><li>contributors, </li>' +
+	'<li><a class="cc" rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a></li>, ' +
+	'<li>Imagery © </li><li><a class="mapbox" http://mapbox.com">Mapbox</a></li>',
+	id: 'examples.map-20v6611k'
+}).addTo(map);
+// control that shows state info on hover
+var info = L.control({prefix: 'Leaflet'});
+info.onAdd = function (map) {
+	this._div = L.DomUtil.create('div', 'info');
+	this.update();
+	return this._div;
+};
+info.update = function (props) {
+	this._div.innerHTML = '<h4 class="infotitle">Massachusetts - Rebuilding Re-Entry</h4><ul class="infolist">' +  (props ?
+	'<li><b>Unemployment Rate </b> ' + props.unemploymentrate + '</li><li><b>Year</b> ' + props.year + '</li><li><b>Locality</b> ' + props.name + '</li></ul>'
+	: '<li>Hover over a locality</li></ul>');
+};
+info.addTo(map);
+// get color depending on population density value
+function getColor(d) {
+	return d > 9 ? '#800026' :
+		d > 8  ? '#bd0026' :
+		d > 7  ? '#e31a1c' :
+		d > 6  ? '#fc4e2a' :
+		d > 5   ? '#fd8d3c' :
+		d > 4   ? '#feb24c' :
+		d > 3   ? '#fed976' :
+		'#ffeda0';
+}
+function style(feature) {
+	return {
+		weight: 2,
+		opacity: 1,
+		color: '#fff',
+		dashArray: '3',
+		fillOpacity: 0.7,
+		fillColor: getColor(feature.properties.unemploymentrate)
+	};
+}
+function highlightFeature(e) {
+	var layer = e.target;
+	layer.setStyle({
+		weight: 5,
+		color: '#666',
+		dashArray: '',
+		fillOpacity: 0.7
+	});
+	if (!L.Browser.ie && !L.Browser.opera) {
+		layer.bringToFront();
+	}
+	info.update(layer.feature.properties);
+}
+var geojson;
+function resetHighlight(e) {
+	geojson.resetStyle(e.target);
+	info.update();
+}
+function zoomToFeature(e) {
+	map.fitBounds(e.target.getBounds());
+}
+function onEachFeature(feature, layer) {
+	layer.on({
+		mouseover: highlightFeature,
+		mouseout: resetHighlight,
+		click: zoomToFeature
+	});
+}
+geojson = L.geoJson(massachussetsLocalities, {
+	style: style,
+	onEachFeature: onEachFeature
+}).addTo(map);
+map.attributionControl.addAttribution('<li>Population data &copy;</li><li><a href="http://census.gov/">US Census Bureau</a></li></ul>');
+var legend = L.control({position: 'bottomright'});
+legend.onAdd = function (map) {
+	var mapLegend = L.DomUtil.create('ol', 'info legend'),grades = [0, 3, 4, 5, 6, 7, 8, 9],labels = [],from, to;
+	for (var i = 0; i < grades.length; i++) {
+		from = grades[i];
+		to = grades[i + 1];
+		labels.push(
+			'<li><i style="background-color:' + getColor(from + 1) + '"></i> ' +
+			from + (to ? '&ndash;' + to : '+'));
+	}
+	mapLegend.innerHTML = labels.join('</li>');
+	return mapLegend;
+};
+legend.addTo(map);
+</script>
+</html>
