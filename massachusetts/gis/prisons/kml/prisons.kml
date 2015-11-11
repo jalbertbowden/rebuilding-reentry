@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="PRISONS_PT">
+    <name>PRISONS_PT</name>
+    <Schema id="PRISONS_PT.schema">
+      <SimpleField name="OBJECTID" type="int"/>
+      <SimpleField name="PRISON_ID" type="int"/>
+      <SimpleField name="ADDRESS" type="string"/>
+      <SimpleField name="TOWN" type="string"/>
+      <SimpleField name="ZIP" type="string"/>
+      <SimpleField name="MAIL_ADDR" type="string"/>
+      <SimpleField name="TYPE" type="string"/>
+      <SimpleField name="MALE_FEMAL" type="string"/>
+      <SimpleField name="HOC_POP" type="int"/>
+      <SimpleField name="JAIL_POP" type="int"/>
+      <SimpleField name="CAPACITY" type="int"/>
+      <SimpleField name="SECURITY" type="string"/>
+      <SimpleField name="NOTES" type="string"/>
+      <SimpleField name="L_BASE" type="string"/>
+      <SimpleField name="L_ACC_EST" type="int"/>
+      <SimpleField name="L_TYPE" type="string"/>
+      <SimpleField name="L_METH" type="string"/>
+      <SimpleField name="L_SRC_1" type="string"/>
+      <SimpleField name="L_SRC_2" type="string"/>
+      <SimpleField name="L_SRC_3" type="string"/>
+    </Schema>
+    <Placemark id="PRISONS_PT.1">
+      <name>Hampshire County Jail and House of Correction</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">1</SimpleData>
+          <SimpleData name="PRISON_ID">14</SimpleData>
+          <SimpleData name="ADDRESS">205 Rocky Hill Road</SimpleData>
+          <SimpleData name="TOWN">Northampton</SimpleData>
+          <SimpleData name="ZIP">01060</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 7000, Northampton</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">214</SimpleData>
+          <SimpleData name="JAIL_POP">95</SimpleData>
+          <SimpleData name="CAPACITY">248</SimpleData>
+          <SimpleData name="SECURITY">Med/Min</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          104078.004215375,895905.610856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.2">
+      <name>Berkshire County Jail and House of Correction</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">2</SimpleData>
+          <SimpleData name="PRISON_ID">3</SimpleData>
+          <SimpleData name="ADDRESS">467 Cheshire Road</SimpleData>
+          <SimpleData name="TOWN">Pittsfield</SimpleData>
+          <SimpleData name="ZIP">01201</SimpleData>
+          <SimpleData name="MAIL_ADDR">467 Cheshire Road, Pittsfield</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Both</SimpleData>
+          <SimpleData name="HOC_POP">229</SimpleData>
+          <SimpleData name="JAIL_POP">104</SimpleData>
+          <SimpleData name="CAPACITY">570</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          59082.844215375,916508.270856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.3">
+      <name>MCI-Cedar Junction</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">3</SimpleData>
+          <SimpleData name="PRISON_ID">18</SimpleData>
+          <SimpleData name="ADDRESS">Route 1A</SimpleData>
+          <SimpleData name="TOWN">Walpole</SimpleData>
+          <SimpleData name="ZIP">02071-0100</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 100, South Walpole</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">716</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">633</SimpleData>
+          <SimpleData name="SECURITY">Max</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          217027.914215375,872870.640856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.4">
+      <name>Pondville Correctional Center</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">4</SimpleData>
+          <SimpleData name="PRISON_ID">35</SimpleData>
+          <SimpleData name="ADDRESS">Industries Drive
+</SimpleData>
+          <SimpleData name="TOWN">Norfolk</SimpleData>
+          <SimpleData name="ZIP">02056</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 146, Norfolk</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">197</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">100</SimpleData>
+          <SimpleData name="SECURITY">Min/Pre</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          216796.834215375,873139.370856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.5">
+      <name>Franklin County Sheriff?s Office</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">5</SimpleData>
+          <SimpleData name="PRISON_ID">11</SimpleData>
+          <SimpleData name="ADDRESS">160 Elm Street</SimpleData>
+          <SimpleData name="TOWN">Greenfield</SimpleData>
+          <SimpleData name="ZIP">01301</SimpleData>
+          <SimpleData name="MAIL_ADDR">160 Elm Street, Greenfield</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Both</SimpleData>
+          <SimpleData name="HOC_POP">87</SimpleData>
+          <SimpleData name="JAIL_POP">95</SimpleData>
+          <SimpleData name="CAPACITY">144</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          108332.394215375,927908.890856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.6">
+      <name>MCI-Plymouth</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">6</SimpleData>
+          <SimpleData name="PRISON_ID">23</SimpleData>
+          <SimpleData name="ADDRESS">Myles Standish Forest</SimpleData>
+          <SimpleData name="TOWN">Plymouth</SimpleData>
+          <SimpleData name="ZIP">02366-0207</SimpleData>
+          <SimpleData name="MAIL_ADDR">Myles Standish Forest, P.O. Box 207, South Carver</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">150</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">151</SimpleData>
+          <SimpleData name="SECURITY">Min</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          269310.124215375,844604.970856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.7">
+      <name><![CDATA[Essex County Correctional Facility and Sheriff's Hqtrs]]></name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">7</SimpleData>
+          <SimpleData name="PRISON_ID">10</SimpleData>
+          <SimpleData name="ADDRESS">20 Manning Avenue</SimpleData>
+          <SimpleData name="TOWN">Middleton</SimpleData>
+          <SimpleData name="ZIP">01949-2807</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 807, Middleton</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Both</SimpleData>
+          <SimpleData name="HOC_POP">568</SimpleData>
+          <SimpleData name="JAIL_POP">655</SimpleData>
+          <SimpleData name="CAPACITY">500</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          241752.584215375,927583.410856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.8">
+      <name>Suffolk County Jail</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">8</SimpleData>
+          <SimpleData name="PRISON_ID">39</SimpleData>
+          <SimpleData name="ADDRESS">200 Nashua Street</SimpleData>
+          <SimpleData name="TOWN">Boston</SimpleData>
+          <SimpleData name="ZIP">02114</SimpleData>
+          <SimpleData name="MAIL_ADDR">200 Nashua Street, Boston</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Both</SimpleData>
+          <SimpleData name="HOC_POP">0</SimpleData>
+          <SimpleData name="JAIL_POP">688</SimpleData>
+          <SimpleData name="CAPACITY">453</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">KNOW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          235361.334215375,901954.540856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.9">
+      <name><![CDATA[Bristol County Jail & House of Correction (Ash Street)]]></name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">9</SimpleData>
+          <SimpleData name="PRISON_ID">6</SimpleData>
+          <SimpleData name="ADDRESS">226 Ash Street</SimpleData>
+          <SimpleData name="TOWN">New Bedford</SimpleData>
+          <SimpleData name="ZIP">02740</SimpleData>
+          <SimpleData name="MAIL_ADDR">226 Ash Street, New Bedford</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">18</SimpleData>
+          <SimpleData name="JAIL_POP">179</SimpleData>
+          <SimpleData name="CAPACITY">206</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          246710.134215375,820531.160856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.10">
+      <name>Middlesex County House of Correction (Billerica)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">10</SimpleData>
+          <SimpleData name="PRISON_ID">26</SimpleData>
+          <SimpleData name="ADDRESS">269 Treble Cove Road</SimpleData>
+          <SimpleData name="TOWN">Billerica</SimpleData>
+          <SimpleData name="ZIP">01821</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 565, Billerica</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">765</SimpleData>
+          <SimpleData name="JAIL_POP">44</SimpleData>
+          <SimpleData name="CAPACITY">874</SimpleData>
+          <SimpleData name="SECURITY">Max/Med/Min</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          215861.694215375,922780.810856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.11">
+      <name>Souza-Baranowski Correctional Center</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">11</SimpleData>
+          <SimpleData name="PRISON_ID">37</SimpleData>
+          <SimpleData name="ADDRESS">Harvard Road</SimpleData>
+          <SimpleData name="TOWN">Shirley</SimpleData>
+          <SimpleData name="ZIP">01464</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 8000, Shirley</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">1000</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">1024</SimpleData>
+          <SimpleData name="SECURITY">Max</SimpleData>
+          <SimpleData name="NOTES">Part of Shirley Correctional Complex</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          187469.954215375,919224.220856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.12">
+      <name>MCI-Shirley (Medium)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">12</SimpleData>
+          <SimpleData name="PRISON_ID">24</SimpleData>
+          <SimpleData name="ADDRESS">Harvard Road</SimpleData>
+          <SimpleData name="TOWN">Shirley</SimpleData>
+          <SimpleData name="ZIP">01464</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 1218, Shirley</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">1117</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">720</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="NOTES">Part of Shirley Correctional Complex</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          187658.304215375,919698.920856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.13">
+      <name>Worcester County Jail and House of Correction</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">13</SimpleData>
+          <SimpleData name="PRISON_ID">41</SimpleData>
+          <SimpleData name="ADDRESS">5 Paul X. Tivnan Drive</SimpleData>
+          <SimpleData name="TOWN">West Boylston</SimpleData>
+          <SimpleData name="ZIP">01583</SimpleData>
+          <SimpleData name="MAIL_ADDR">5 Paul X. Tivnan Drive, West Boylston</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">818</SimpleData>
+          <SimpleData name="JAIL_POP">540</SimpleData>
+          <SimpleData name="CAPACITY">490</SimpleData>
+          <SimpleData name="SECURITY">Max/Med/Min/Pre/AT</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          177510.474215375,896981.310856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.14">
+      <name>North Central Correctional Institute (Gardner - Medium)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">14</SimpleData>
+          <SimpleData name="PRISON_ID">29</SimpleData>
+          <SimpleData name="ADDRESS">500 Colony Road</SimpleData>
+          <SimpleData name="TOWN">Gardner</SimpleData>
+          <SimpleData name="ZIP">01440</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 466, Gardner</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">971</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">568</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          163349.084215375,925559.660856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.15">
+      <name>Hampden County Jail and House of Corr. and Corr. Ctr @ Stony Brook</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">15</SimpleData>
+          <SimpleData name="PRISON_ID">13</SimpleData>
+          <SimpleData name="ADDRESS">627 Randall Road
+</SimpleData>
+          <SimpleData name="TOWN">Ludlow</SimpleData>
+          <SimpleData name="ZIP">01056</SimpleData>
+          <SimpleData name="MAIL_ADDR">627 Randall Road, Ludlow</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Both</SimpleData>
+          <SimpleData name="HOC_POP">1081</SimpleData>
+          <SimpleData name="JAIL_POP">807</SimpleData>
+          <SimpleData name="CAPACITY">1178</SimpleData>
+          <SimpleData name="SECURITY">Med/Min/Pre</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          116015.994215375,884130.510856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.16">
+      <name>Bay State Correctional Center
+</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">16</SimpleData>
+          <SimpleData name="PRISON_ID">2</SimpleData>
+          <SimpleData name="ADDRESS">28 Clark Street</SimpleData>
+          <SimpleData name="TOWN">Norfolk</SimpleData>
+          <SimpleData name="ZIP">02056-0073</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 73, Norfolk</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male
+</SimpleData>
+          <SimpleData name="HOC_POP">315</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">266</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          216177.124215375,874104.070856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.17">
+      <name>MCI-Norfolk</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">17</SimpleData>
+          <SimpleData name="PRISON_ID">22</SimpleData>
+          <SimpleData name="ADDRESS">2 Clark Street</SimpleData>
+          <SimpleData name="TOWN">Norfolk</SimpleData>
+          <SimpleData name="ZIP">02056</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 43, Norfolk</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">1425</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">1084</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          215838.054215375,874318.340856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.18">
+      <name>Old Colony Correctional Center (Medium)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">18</SimpleData>
+          <SimpleData name="PRISON_ID">32</SimpleData>
+          <SimpleData name="ADDRESS">1 Administration Road
+</SimpleData>
+          <SimpleData name="TOWN">Bridgewater</SimpleData>
+          <SimpleData name="ZIP">02324</SimpleData>
+          <SimpleData name="MAIL_ADDR">1 Administration Road, Bridgewater</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">768</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">480</SimpleData>
+          <SimpleData name="SECURITY">Med/Min</SimpleData>
+          <SimpleData name="NOTES">Part of Bridgewater Correctional Complex</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          244734.284215375,855572.550856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.19">
+      <name>Bridgewater State Hospital</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">19</SimpleData>
+          <SimpleData name="PRISON_ID">5</SimpleData>
+          <SimpleData name="ADDRESS">20 Administration Road</SimpleData>
+          <SimpleData name="TOWN">Bridgewater</SimpleData>
+          <SimpleData name="ZIP">02324</SimpleData>
+          <SimpleData name="MAIL_ADDR">20 Administration Road, Bridgewater</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">373</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">227</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="NOTES">Part of Bridgewater Correctional Complex</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          244785.184215375,854914.550856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.20">
+      <name>Massachusetts Treatment Center</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">20</SimpleData>
+          <SimpleData name="PRISON_ID">17</SimpleData>
+          <SimpleData name="ADDRESS">30 Administration Road</SimpleData>
+          <SimpleData name="TOWN">Bridgewater</SimpleData>
+          <SimpleData name="ZIP">02324</SimpleData>
+          <SimpleData name="MAIL_ADDR">30 Administration Road, Bridgewater</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">620</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">561</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="NOTES">Part of Bridgewater Correctional Complex</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          244643.374215375,855227.420856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.21">
+      <name>Plymouth County Correctional Facility (Jail and House of Correction)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">21</SimpleData>
+          <SimpleData name="PRISON_ID">34</SimpleData>
+          <SimpleData name="ADDRESS">26 Long Pond Road</SimpleData>
+          <SimpleData name="TOWN">Plymouth</SimpleData>
+          <SimpleData name="ZIP">02360</SimpleData>
+          <SimpleData name="MAIL_ADDR">26 Long Pond Road, Plymouth</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">674</SimpleData>
+          <SimpleData name="JAIL_POP">977</SimpleData>
+          <SimpleData name="CAPACITY">1140</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          270025.204215375,853838.640856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.22">
+      <name>Barnstable County Correctional Facility</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">22</SimpleData>
+          <SimpleData name="PRISON_ID">1</SimpleData>
+          <SimpleData name="ADDRESS"><![CDATA[6001 Sheriff's Place]]></SimpleData>
+          <SimpleData name="TOWN">Bourne</SimpleData>
+          <SimpleData name="ZIP">02532</SimpleData>
+          <SimpleData name="MAIL_ADDR"><![CDATA[6001 Sheriff's Place, Bourne]]></SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Both</SimpleData>
+          <SimpleData name="HOC_POP">312</SimpleData>
+          <SimpleData name="JAIL_POP">145</SimpleData>
+          <SimpleData name="CAPACITY">300</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          276901.364215375,825636.330856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.23">
+      <name>Dukes County Jail and House of Correction
+</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">23</SimpleData>
+          <SimpleData name="PRISON_ID">8</SimpleData>
+          <SimpleData name="ADDRESS">149 Main Street
+</SimpleData>
+          <SimpleData name="TOWN">Edgartown</SimpleData>
+          <SimpleData name="ZIP">02539</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 252, Edgartown
+</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">12</SimpleData>
+          <SimpleData name="JAIL_POP">7</SimpleData>
+          <SimpleData name="CAPACITY">19</SimpleData>
+          <SimpleData name="SECURITY">Med/Min</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          281649.684215375,793969.970856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.24">
+      <name>Boston Pre-Release Center
+</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">24</SimpleData>
+          <SimpleData name="PRISON_ID">4</SimpleData>
+          <SimpleData name="ADDRESS">430 Canterbury St.</SimpleData>
+          <SimpleData name="TOWN">Boston</SimpleData>
+          <SimpleData name="ZIP">02131</SimpleData>
+          <SimpleData name="MAIL_ADDR">430 Canterbury St., Roslindale
+Roslindale, MA 02131</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">144</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">150</SimpleData>
+          <SimpleData name="SECURITY">Min/Pre</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          232385.874215375,893505.850856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.25">
+      <name>Lemuel Shattuck Hospital Correctional Unit</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">25</SimpleData>
+          <SimpleData name="PRISON_ID">15</SimpleData>
+          <SimpleData name="ADDRESS">180 Morton Street</SimpleData>
+          <SimpleData name="TOWN">Boston</SimpleData>
+          <SimpleData name="ZIP">02130</SimpleData>
+          <SimpleData name="MAIL_ADDR">180 Morton Street, Jamaica Plain</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">25</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">24</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">KNOW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          232480.514215375,894422.440856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.26">
+      <name>Suffolk County House of Correction</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">26</SimpleData>
+          <SimpleData name="PRISON_ID">38</SimpleData>
+          <SimpleData name="ADDRESS">20 Bradston Street</SimpleData>
+          <SimpleData name="TOWN">Boston</SimpleData>
+          <SimpleData name="ZIP">02118</SimpleData>
+          <SimpleData name="MAIL_ADDR">20 Bradston Street, Boston</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Both</SimpleData>
+          <SimpleData name="HOC_POP">1793</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">1146</SimpleData>
+          <SimpleData name="SECURITY">Med/Pre</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          235263.544215375,898307.990856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.27">
+      <name>Middlesex County Jail (Cambridge)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">27</SimpleData>
+          <SimpleData name="PRISON_ID">27</SimpleData>
+          <SimpleData name="ADDRESS">40 Thorndike Street</SimpleData>
+          <SimpleData name="TOWN">Cambridge</SimpleData>
+          <SimpleData name="ZIP">02141</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 97, East Cambridge</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">4</SimpleData>
+          <SimpleData name="JAIL_POP">302</SimpleData>
+          <SimpleData name="CAPACITY">161</SimpleData>
+          <SimpleData name="SECURITY">Max/Min
+</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          234274.254215375,902163.760856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.28">
+      <name>Norfolk County Sheriff?s Office and Correctional Center</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">28</SimpleData>
+          <SimpleData name="PRISON_ID">28</SimpleData>
+          <SimpleData name="ADDRESS">200 West Street</SimpleData>
+          <SimpleData name="TOWN">Dedham</SimpleData>
+          <SimpleData name="ZIP">02027</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 149, Dedham</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">438</SimpleData>
+          <SimpleData name="JAIL_POP">272</SimpleData>
+          <SimpleData name="CAPACITY">302</SimpleData>
+          <SimpleData name="SECURITY">Med/Pre</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          223673.194215375,890007.040856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.29">
+      <name>MCI-Framingham</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">29</SimpleData>
+          <SimpleData name="PRISON_ID">20</SimpleData>
+          <SimpleData name="ADDRESS">99 Loring Drive</SimpleData>
+          <SimpleData name="TOWN">Framingham</SimpleData>
+          <SimpleData name="ZIP">01701</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 9007, Framingham</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Female</SimpleData>
+          <SimpleData name="HOC_POP">493</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">388</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          207268.894215375,890765.020856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.30">
+      <name>South Middlesex Correctional Center</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">30</SimpleData>
+          <SimpleData name="PRISON_ID">36</SimpleData>
+          <SimpleData name="ADDRESS">135 Western Avenue</SimpleData>
+          <SimpleData name="TOWN">Framingham</SimpleData>
+          <SimpleData name="ZIP">01701</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 850, Framingham</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Female</SimpleData>
+          <SimpleData name="HOC_POP">139</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">125</SimpleData>
+          <SimpleData name="SECURITY">Min/Pre</SimpleData>
+          <SimpleData name="NOTES">200 yards south of MCI Framingham facility</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          207401.314215375,890545.900856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.31">
+      <name>Northeastern Correctional Center</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">31</SimpleData>
+          <SimpleData name="PRISON_ID">31</SimpleData>
+          <SimpleData name="ADDRESS">Barretts Mill Road</SimpleData>
+          <SimpleData name="TOWN">Concord</SimpleData>
+          <SimpleData name="ZIP">01742</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 1069, West Concord</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">266</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">150</SimpleData>
+          <SimpleData name="SECURITY">Min/Pre</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          208031.634215375,913561.930856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.32">
+      <name>MCI-Concord</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">32</SimpleData>
+          <SimpleData name="PRISON_ID">19</SimpleData>
+          <SimpleData name="ADDRESS">965 Elm Street</SimpleData>
+          <SimpleData name="TOWN">Concord</SimpleData>
+          <SimpleData name="ZIP">01742</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 9106, Concord</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">1397</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">614</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          208214.894215375,912732.540856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.33">
+      <name>Essex County Correctional Alternative Center (Lawrence)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">33</SimpleData>
+          <SimpleData name="PRISON_ID">9</SimpleData>
+          <SimpleData name="ADDRESS">165 Marston Street
+</SimpleData>
+          <SimpleData name="TOWN">Lawrence</SimpleData>
+          <SimpleData name="ZIP">01841</SimpleData>
+          <SimpleData name="MAIL_ADDR">165 Marston Street, Lawrence</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">363</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">135</SimpleData>
+          <SimpleData name="SECURITY">Min/Pre</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          228864.264215375,940967.810856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.34">
+      <name>Bristol County Jail and House of Correction (North Dartmouth)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">34</SimpleData>
+          <SimpleData name="PRISON_ID">7</SimpleData>
+          <SimpleData name="ADDRESS">400 Faunce Corner Road</SimpleData>
+          <SimpleData name="TOWN">Dartmouth</SimpleData>
+          <SimpleData name="ZIP">02747</SimpleData>
+          <SimpleData name="MAIL_ADDR">400 Faunce Corner Road, North Dartmouth</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Both</SimpleData>
+          <SimpleData name="HOC_POP">721</SimpleData>
+          <SimpleData name="JAIL_POP">429</SimpleData>
+          <SimpleData name="CAPACITY">304</SimpleData>
+          <SimpleData name="SECURITY">Med/Min
+</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          241632.884215375,824022.420856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.35">
+      <name>Hampden County Correctional Alcohol Center</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">35</SimpleData>
+          <SimpleData name="PRISON_ID">12</SimpleData>
+          <SimpleData name="ADDRESS">26 Howard Street</SimpleData>
+          <SimpleData name="TOWN">Springfield</SimpleData>
+          <SimpleData name="ZIP">01105</SimpleData>
+          <SimpleData name="MAIL_ADDR">26 Howard Street,  Springfield</SimpleData>
+          <SimpleData name="TYPE">C</SimpleData>
+          <SimpleData name="MALE_FEMAL">Both</SimpleData>
+          <SimpleData name="HOC_POP">179</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">125</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          109769.794215375,872672.430856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.36">
+      <name>Massachusetts Alcohol and Substance Abuse Center</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">36</SimpleData>
+          <SimpleData name="PRISON_ID">16</SimpleData>
+          <SimpleData name="ADDRESS">2 Administration Road</SimpleData>
+          <SimpleData name="TOWN">Bridgewater</SimpleData>
+          <SimpleData name="ZIP">02324</SimpleData>
+          <SimpleData name="MAIL_ADDR">2 Administration Road, Bridgewater</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">185</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">236</SimpleData>
+          <SimpleData name="SECURITY">Med</SimpleData>
+          <SimpleData name="NOTES">Part of Bridgewater Correctional Complex</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          244814.834215375,855906.340856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.37">
+      <name>Old Colony Correctional Center (Minimum)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">37</SimpleData>
+          <SimpleData name="PRISON_ID">33</SimpleData>
+          <SimpleData name="ADDRESS">1 Administration Road</SimpleData>
+          <SimpleData name="TOWN">Bridgewater</SimpleData>
+          <SimpleData name="ZIP">02324</SimpleData>
+          <SimpleData name="MAIL_ADDR">1 Administration Road, Bridgewater</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">158</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">100</SimpleData>
+          <SimpleData name="SECURITY">Min</SimpleData>
+          <SimpleData name="NOTES">Part of Bridgewater Correctional Complex</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          244728.814215375,855591.710856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.38">
+      <name>North Central Correctional Institute (Gardner - Minimum)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">38</SimpleData>
+          <SimpleData name="PRISON_ID">30</SimpleData>
+          <SimpleData name="ADDRESS">500 Colony Road</SimpleData>
+          <SimpleData name="TOWN">Gardner</SimpleData>
+          <SimpleData name="ZIP">01440</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 466, Gardner</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">27</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">30</SimpleData>
+          <SimpleData name="SECURITY">Min</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          163803.394215375,925493.290856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.39">
+      <name>MCI-Shirley (Minimum)</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">39</SimpleData>
+          <SimpleData name="PRISON_ID">21</SimpleData>
+          <SimpleData name="ADDRESS">Harvard Road</SimpleData>
+          <SimpleData name="TOWN">Shirley</SimpleData>
+          <SimpleData name="ZIP">01464</SimpleData>
+          <SimpleData name="MAIL_ADDR">Harvard Road, Shirley</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">96</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">92</SimpleData>
+          <SimpleData name="SECURITY">Min</SimpleData>
+          <SimpleData name="NOTES">Part of Shirley Correctional Complex</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          187039.194215375,919596.380856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.40">
+      <name>MCI-Framingham ATU</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">40</SimpleData>
+          <SimpleData name="PRISON_ID">25</SimpleData>
+          <SimpleData name="ADDRESS">99 Loring Drive</SimpleData>
+          <SimpleData name="TOWN">Framingham</SimpleData>
+          <SimpleData name="ZIP">01701</SimpleData>
+          <SimpleData name="MAIL_ADDR">PO Box 9007, Framingham</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Female</SimpleData>
+          <SimpleData name="HOC_POP">227</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">64</SimpleData>
+          <SimpleData name="SECURITY">AT</SimpleData>
+          <SimpleData name="NOTES">Facility located inside MCI-Framingham</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          207239.794215375,890752.660856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.41">
+      <name>FMC Devens - Federal Medical Center</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">41</SimpleData>
+          <SimpleData name="PRISON_ID">42</SimpleData>
+          <SimpleData name="ADDRESS">42 Patton Road</SimpleData>
+          <SimpleData name="TOWN">Harvard</SimpleData>
+          <SimpleData name="ZIP">01434</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 879, Devens</SimpleData>
+          <SimpleData name="TYPE">F</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">940</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">1126</SimpleData>
+          <SimpleData name="SECURITY">Max/Med/Min/Pre/AT</SimpleData>
+          <SimpleData name="NOTES">Federal Medical Center</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+          <SimpleData name="L_SRC_3">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          189713.004215375,919455.670856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.42">
+      <name><![CDATA[Women's and Children's Program]]></name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">42</SimpleData>
+          <SimpleData name="PRISON_ID">40</SimpleData>
+          <SimpleData name="ADDRESS">154 Oak Street</SimpleData>
+          <SimpleData name="TOWN">Westborough</SimpleData>
+          <SimpleData name="ZIP">01581</SimpleData>
+          <SimpleData name="MAIL_ADDR">154 Oak Street, Westborough</SimpleData>
+          <SimpleData name="TYPE">S</SimpleData>
+          <SimpleData name="MALE_FEMAL">Female</SimpleData>
+          <SimpleData name="HOC_POP">4</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">15</SimpleData>
+          <SimpleData name="SECURITY">Pre</SimpleData>
+          <SimpleData name="NOTES">Contract facility</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">50</SimpleData>
+          <SimpleData name="L_TYPE">CF</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          189064.684215375,892805.590856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="PRISONS_PT.43">
+      <name>FMC Devens - Satellite Camp</name>
+      <ExtendedData>
+        <SchemaData schemaUrl="#PRISONS_PT.schema">
+          <SimpleData name="OBJECTID">43</SimpleData>
+          <SimpleData name="PRISON_ID">43</SimpleData>
+          <SimpleData name="ADDRESS">42 Patton Road</SimpleData>
+          <SimpleData name="TOWN">Harvard</SimpleData>
+          <SimpleData name="ZIP">01434</SimpleData>
+          <SimpleData name="MAIL_ADDR">P.O. Box 879, Devens</SimpleData>
+          <SimpleData name="TYPE">F</SimpleData>
+          <SimpleData name="MALE_FEMAL">Male</SimpleData>
+          <SimpleData name="HOC_POP">141</SimpleData>
+          <SimpleData name="JAIL_POP">0</SimpleData>
+          <SimpleData name="CAPACITY">124</SimpleData>
+          <SimpleData name="SECURITY">Min</SimpleData>
+          <SimpleData name="NOTES">Satellite Camp</SimpleData>
+          <SimpleData name="L_BASE">DOQ</SimpleData>
+          <SimpleData name="L_ACC_EST">100</SimpleData>
+          <SimpleData name="L_TYPE">CB</SimpleData>
+          <SimpleData name="L_METH">IN</SimpleData>
+          <SimpleData name="L_SRC_1">AP_DOQ</SimpleData>
+          <SimpleData name="L_SRC_2">MS_WWW</SimpleData>
+          <SimpleData name="L_SRC_3">VERB</SimpleData>
+        </SchemaData>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          189791.114215375,919772.770856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
