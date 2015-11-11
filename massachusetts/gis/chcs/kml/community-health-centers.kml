@@ -1,0 +1,3867 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>community_health_centers</name>
+<Schema name="community_health_centers" id="community_health_centers">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="GIS_ID" type="string"></SimpleField>
+	<SimpleField name="MCHC_CODE" type="string"></SimpleField>
+	<SimpleField name="SITE_NAME" type="string"></SimpleField>
+	<SimpleField name="SITE_TYPE" type="string"></SimpleField>
+	<SimpleField name="ADMIN_ONLY" type="string"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="ADDRESS_OT" type="string"></SimpleField>
+	<SimpleField name="PO_BOX" type="string"></SimpleField>
+	<SimpleField name="TOWN_ID" type="int"></SimpleField>
+	<SimpleField name="MAIL_CITY" type="string"></SimpleField>
+	<SimpleField name="ZIP" type="string"></SimpleField>
+	<SimpleField name="METHOD" type="string"></SimpleField>
+	<SimpleField name="SATELLITE" type="string"></SimpleField>
+	<SimpleField name="EYE" type="string"></SimpleField>
+	<SimpleField name="DENTAL" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="GIS_ID">S67</SimpleData>
+		<SimpleData name="MCHC_CODE">HSHS</SimpleData>
+		<SimpleData name="SITE_NAME">Massachusetts Career Development Institute</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">140 Wilbraham Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">281</SimpleData>
+		<SimpleData name="MAIL_CITY">Springfield</SimpleData>
+		<SimpleData name="ZIP">01109</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.56065494762295,42.107920340102211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="GIS_ID">S68</SimpleData>
+		<SimpleData name="MCHC_CODE">MCHC</SimpleData>
+		<SimpleData name="SITE_NAME">MCHC at Quincy Medical Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">114 Whitwell Street, 2nd Floor, B-Wing</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">243</SimpleData>
+		<SimpleData name="MAIL_CITY">Quincy</SimpleData>
+		<SimpleData name="ZIP">02169</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.013891551296382,42.251071800575446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="GIS_ID">S69</SimpleData>
+		<SimpleData name="MCHC_CODE">BHCHP</SimpleData>
+		<SimpleData name="SITE_NAME">MGH BPCHP Primary Care Clinic</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">55 Fruit Street, Medical Walk-in Unit, WACC 108</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02114</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.068193992592569,42.362692150680942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="GIS_ID">S70</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHCT</SimpleData>
+		<SimpleData name="SITE_NAME">MGH Charlestown HealthCare Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">73 High Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Charlestown</SimpleData>
+		<SimpleData name="ZIP">02129</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.06425102534827,42.37716065452517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="GIS_ID">S71</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHR</SimpleData>
+		<SimpleData name="SITE_NAME">MGH Chelsea HealthCare Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">100 Everett Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">57</SimpleData>
+		<SimpleData name="MAIL_CITY">Chelsea</SimpleData>
+		<SimpleData name="ZIP">02150</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.040187872755794,42.394298603538353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="GIS_ID">S72</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHCS</SimpleData>
+		<SimpleData name="SITE_NAME">MGH Chelsea HealthCare Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">151 Everett Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">57</SimpleData>
+		<SimpleData name="MAIL_CITY">Chelsea</SimpleData>
+		<SimpleData name="ZIP">02150</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.039241218120438,42.39606544250843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="GIS_ID">S73</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHR</SimpleData>
+		<SimpleData name="SITE_NAME">MGH Everett Family Care</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">19-21 Norwood Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">93</SimpleData>
+		<SimpleData name="MAIL_CITY">Everett</SimpleData>
+		<SimpleData name="ZIP">02149</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.056571695288824,42.407519013158584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="GIS_ID">S75</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHR</SimpleData>
+		<SimpleData name="SITE_NAME">MGH Revere HealthCare Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">300 Ocean Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">248</SimpleData>
+		<SimpleData name="MAIL_CITY">Revere</SimpleData>
+		<SimpleData name="ZIP">02151</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.992080056537915,42.407936438365141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="GIS_ID">S76</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHR</SimpleData>
+		<SimpleData name="SITE_NAME">MGH/Revere High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">101 School Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">248</SimpleData>
+		<SimpleData name="MAIL_CITY">Revere</SimpleData>
+		<SimpleData name="ZIP">02151</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.008387859049336,42.412124089398127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="GIS_ID">S77</SimpleData>
+		<SimpleData name="MCHC_CODE">CHCFC</SimpleData>
+		<SimpleData name="SITE_NAME">Mohawk Trail Regional High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">Route 112</SimpleData>
+		<SimpleData name="ADDRESS_OT">26 Ashfield Road</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">47</SimpleData>
+		<SimpleData name="MAIL_CITY">Shelburne Falls</SimpleData>
+		<SimpleData name="ZIP">01370</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.755697760350984,42.616337663664808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="GIS_ID">S78</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Norrback Avenue School Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">44 Malden Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01606</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.794587892528142,42.327206672270556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="GIS_ID">S79</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">North Cambridge Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">266B Rindge Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02140</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.134867062699172,42.393403246345166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="GIS_ID">S80</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">North High School Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">150 Harrington Way</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01604</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.76651856371241,42.262075252801445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="GIS_ID">S81</SimpleData>
+		<SimpleData name="MCHC_CODE">DHC</SimpleData>
+		<SimpleData name="SITE_NAME">O'Neill/Duffy Health Center Noah Shelter</SimpleData>
+		<SimpleData name="SITE_TYPE">HOMELESS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">77 Winter Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">20</SimpleData>
+		<SimpleData name="MAIL_CITY">Hyannis</SimpleData>
+		<SimpleData name="ZIP">02601</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.287004481297004,41.653955334069849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="GIS_ID">S82</SimpleData>
+		<SimpleData name="MCHC_CODE">NSCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Peabody Veterans Memorial High School Teen Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">485 Lowell Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">229</SimpleData>
+		<SimpleData name="MAIL_CITY">Peabody</SimpleData>
+		<SimpleData name="ZIP">01960</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.974257399298736,42.544579012501011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="GIS_ID">S83</SimpleData>
+		<SimpleData name="MCHC_CODE">BNHC</SimpleData>
+		<SimpleData name="SITE_NAME">Pleasant Street Family Practice</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">795 Pleasant Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">44</SimpleData>
+		<SimpleData name="MAIL_CITY">Brockton</SimpleData>
+		<SimpleData name="ZIP">02301</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.053287709525534,42.087896179302483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="GIS_ID">S84</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Primary Care Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1493 Cambridge Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">The Cambridge Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02139</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.104091477101178,42.374482117050171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="GIS_ID">S85</SimpleData>
+		<SimpleData name="MCHC_CODE">OCHS</SimpleData>
+		<SimpleData name="SITE_NAME">Provincetown Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">49 Harry Kemp Way</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">242</SimpleData>
+		<SimpleData name="MAIL_CITY">Provincetown</SimpleData>
+		<SimpleData name="ZIP">02657</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.183546336047783,42.058121234129771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="GIS_ID">S86</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Riverside Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">205 Western Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02139</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.110459968390586,42.364929977851673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="GIS_ID">S87</SimpleData>
+		<SimpleData name="MCHC_CODE">LCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Rogers Middle School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">43 Highland Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">160</SimpleData>
+		<SimpleData name="MAIL_CITY">Lowell</SimpleData>
+		<SimpleData name="ZIP">01852</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.310592005132349,42.637403090542186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="GIS_ID">S88</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Roosevelt School Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1006 Grafton Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01604</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.757045927312674,42.24351237268511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="GIS_ID">S89</SimpleData>
+		<SimpleData name="MCHC_CODE">RoxComp</SimpleData>
+		<SimpleData name="SITE_NAME">RoxComp at the Mall</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">330 Martin Luther King, Jr. Blvd.</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Roxbury</SimpleData>
+		<SimpleData name="ZIP">02119</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.08237516660455,42.318866593704222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="GIS_ID">S90</SimpleData>
+		<SimpleData name="MCHC_CODE">RoxComp</SimpleData>
+		<SimpleData name="SITE_NAME">RoxComp Methadone Assessment &amp; Treatment Program</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">170 Morton Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Lemuel Shattuck Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Jamaica Plain</SimpleData>
+		<SimpleData name="ZIP">02130</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.101849840937689,42.299582196329823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">147</SimpleData>
+		<SimpleData name="GIS_ID">S91</SimpleData>
+		<SimpleData name="MCHC_CODE">SECHC</SimpleData>
+		<SimpleData name="SITE_NAME">SECHC at Dr. Solomon Carter Fuller Mental Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">85 East Newton Street, Ground Floor</SimpleData>
+		<SimpleData name="ADDRESS_OT">Boston Medical Center</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02118</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.070807834491376,42.336222928173648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="GIS_ID">S92</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Senior Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">806 Massachusetts Ave, 3rd Floor</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02139</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.10650033353086,42.366826482662532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="GIS_ID">S93</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Somerville Teen Connection at Somerville High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">81 Highland Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">274</SimpleData>
+		<SimpleData name="MAIL_CITY">Somerville</SimpleData>
+		<SimpleData name="ZIP">02143</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.097045576690419,42.387155546136121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="GIS_ID">S94</SimpleData>
+		<SimpleData name="MCHC_CODE">SBCHC</SimpleData>
+		<SimpleData name="SITE_NAME">South Boston Eye/Behavioral Health/WIC/Dental Clinic</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">386 West Broadway</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">South Boston</SimpleData>
+		<SimpleData name="ZIP">02127</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.048479587774381,42.337606666867394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="GIS_ID">S95</SimpleData>
+		<SimpleData name="MCHC_CODE">SCCHC</SimpleData>
+		<SimpleData name="SITE_NAME">South Cove Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">275 Hancock Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">243</SimpleData>
+		<SimpleData name="MAIL_CITY">Quincy</SimpleData>
+		<SimpleData name="ZIP">02171</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.029525606342631,42.276717969939781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="GIS_ID">S96</SimpleData>
+		<SimpleData name="MCHC_CODE">FCHC</SimpleData>
+		<SimpleData name="SITE_NAME">South End Associates of Fenway</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">142 Berkeley Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02116</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.072361996813527,42.348641427368193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="GIS_ID">S97</SimpleData>
+		<SimpleData name="MCHC_CODE">FHCW</SimpleData>
+		<SimpleData name="SITE_NAME">South High Community School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">170 Apricot Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01603</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.864141105763721,42.244603948137204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="GIS_ID">S98</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">South Site Clinic</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">72D Winthrop Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT">Plaza 114</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01843</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.152284097394841,42.689665895539498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="GIS_ID">S99</SimpleData>
+		<SimpleData name="MCHC_CODE">SCCHC</SimpleData>
+		<SimpleData name="SITE_NAME">South Street Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">145 South Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02111</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.057496513998615,42.350822506585793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">156</SimpleData>
+		<SimpleData name="GIS_ID">S100</SimpleData>
+		<SimpleData name="MCHC_CODE">CHCB</SimpleData>
+		<SimpleData name="SITE_NAME">Southern Berkshire Regional School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">291 Berkshire School Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">267</SimpleData>
+		<SimpleData name="MAIL_CITY">Sheffield</SimpleData>
+		<SimpleData name="ZIP">01257</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.374599770829576,42.106143954175977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="GIS_ID">S101</SimpleData>
+		<SimpleData name="MCHC_CODE">BHCHP</SimpleData>
+		<SimpleData name="SITE_NAME">St. Francis House Clinic</SimpleData>
+		<SimpleData name="SITE_TYPE">HOMELESS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">39 Boylston Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02116</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.063404479748456,42.352393648995388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="GIS_ID">S102</SimpleData>
+		<SimpleData name="MCHC_CODE">SBJCHC</SimpleData>
+		<SimpleData name="SITE_NAME">St. Vincent's School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">2425 Highland Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">95</SimpleData>
+		<SimpleData name="MAIL_CITY">Fall River</SimpleData>
+		<SimpleData name="ZIP">02720</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.126738963647895,41.734308313757261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="GIS_ID">S103</SimpleData>
+		<SimpleData name="MCHC_CODE">FHCW</SimpleData>
+		<SimpleData name="SITE_NAME">Sullivan Middle School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">140 Apricot Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01603</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.860919094275488,42.242197959017616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="GIS_ID">S104</SimpleData>
+		<SimpleData name="MCHC_CODE">CHC-SSW</SimpleData>
+		<SimpleData name="SITE_NAME">Sumner Avenue School-based Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">41 Sumner Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">281</SimpleData>
+		<SimpleData name="MAIL_CITY">Springfield</SimpleData>
+		<SimpleData name="ZIP">01108</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.574582469322294,42.082518205784652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">161</SimpleData>
+		<SimpleData name="GIS_ID">S105</SimpleData>
+		<SimpleData name="MCHC_CODE">NSCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Teen Center at Salem High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">77 Wilson Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">258</SimpleData>
+		<SimpleData name="MAIL_CITY">Salem</SimpleData>
+		<SimpleData name="ZIP">01970</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.911315847996008,42.506182040841843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">162</SimpleData>
+		<SimpleData name="GIS_ID">S106</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Teen Health Center at Cambridge Rindge and Latin School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">459 Broadway</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02138</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.111976692847577,42.374418317133795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">163</SimpleData>
+		<SimpleData name="GIS_ID">S107</SimpleData>
+		<SimpleData name="MCHC_CODE">CSHC</SimpleData>
+		<SimpleData name="SITE_NAME">The Great Hall</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">6 Norfolk Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02124</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.072005885487201,42.289948826586063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">164</SimpleData>
+		<SimpleData name="GIS_ID">S108</SimpleData>
+		<SimpleData name="MCHC_CODE">NSCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Torigian Family Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">89 Foster Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">229</SimpleData>
+		<SimpleData name="MAIL_CITY">Peabody</SimpleData>
+		<SimpleData name="ZIP">01960</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.930262112636115,42.523119248190618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">165</SimpleData>
+		<SimpleData name="GIS_ID">S109</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Umass Memorial Hospital</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">116-199 Belmont Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01605</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.792306580393557,42.272913431785106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">166</SimpleData>
+		<SimpleData name="GIS_ID">S110</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Union Square Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">337 Somerville Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">274</SimpleData>
+		<SimpleData name="MAIL_CITY">Somerville</SimpleData>
+		<SimpleData name="ZIP">02143</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.097945943001221,42.380790491301312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="GIS_ID">S111</SimpleData>
+		<SimpleData name="MCHC_CODE">UCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Upham's Corner Adolescent Health &amp; WIC</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">500 Columbia Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02125</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.067630975307608,42.314828408702461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">168</SimpleData>
+		<SimpleData name="GIS_ID">S112</SimpleData>
+		<SimpleData name="MCHC_CODE">UCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Upham's Corner Dental &amp; Eye Care</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">636 Columbia Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02125</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.064088403771606,42.31845931923575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">169</SimpleData>
+		<SimpleData name="GIS_ID">S113</SimpleData>
+		<SimpleData name="MCHC_CODE">UCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Upham's Corner Elder Service Plan</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1140 Dorchester Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02125</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.057202417164177,42.311917030432646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">170</SimpleData>
+		<SimpleData name="GIS_ID">S114</SimpleData>
+		<SimpleData name="MCHC_CODE">SCCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Vietnamese Youth &amp; Family Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1590 Dorchester Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02122</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.061197287849993,42.296214709237567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">171</SimpleData>
+		<SimpleData name="GIS_ID">S115</SimpleData>
+		<SimpleData name="MCHC_CODE">NECHC</SimpleData>
+		<SimpleData name="SITE_NAME">Villa Michaelangelo Elder Services</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1 Michaelangelo Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02113</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.055120145331273,42.367275632578121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">172</SimpleData>
+		<SimpleData name="GIS_ID">S116</SimpleData>
+		<SimpleData name="MCHC_CODE">OCHS</SimpleData>
+		<SimpleData name="SITE_NAME">Wellfleet Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">3130 State Highway</SimpleData>
+		<SimpleData name="ADDRESS_OT">Route 6</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">318</SimpleData>
+		<SimpleData name="MAIL_CITY">Wellfleet</SimpleData>
+		<SimpleData name="ZIP">02667</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.024577895443244,41.942859778185948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">173</SimpleData>
+		<SimpleData name="GIS_ID">S117</SimpleData>
+		<SimpleData name="MCHC_CODE">OCHS</SimpleData>
+		<SimpleData name="SITE_NAME">WIC Nutrition Program</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">159 Route 6A</SimpleData>
+		<SimpleData name="ADDRESS_OT">Cranberry Highway</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">224</SimpleData>
+		<SimpleData name="MAIL_CITY">Orleans</SimpleData>
+		<SimpleData name="ZIP">02653</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-69.995295232709609,41.783194683663929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">174</SimpleData>
+		<SimpleData name="GIS_ID">S118</SimpleData>
+		<SimpleData name="MCHC_CODE">FHCW</SimpleData>
+		<SimpleData name="SITE_NAME">WIC Office</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">16 Laurel Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01608</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.795705416116505,42.269113408795967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">175</SimpleData>
+		<SimpleData name="GIS_ID">S119</SimpleData>
+		<SimpleData name="MCHC_CODE">FHCW</SimpleData>
+		<SimpleData name="SITE_NAME">WIC Office</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">130 Elm Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">186</SimpleData>
+		<SimpleData name="MAIL_CITY">Millbury</SimpleData>
+		<SimpleData name="ZIP">01527</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.76386694216454,42.18988685744057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">176</SimpleData>
+		<SimpleData name="GIS_ID">S120</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Windsor Street Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">119 Windsor Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02139</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.096706860411715,42.364693754013267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">177</SimpleData>
+		<SimpleData name="GIS_ID">S121</SimpleData>
+		<SimpleData name="MCHC_CODE">WSHC</SimpleData>
+		<SimpleData name="SITE_NAME">Women's Awareness Resources Project (WAR)</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">130 Warren Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Roxbury</SimpleData>
+		<SimpleData name="ZIP">02119</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.082861519799479,42.326231818918373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">178</SimpleData>
+		<SimpleData name="GIS_ID">S122</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Women's Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">96 Garland Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">93</SimpleData>
+		<SimpleData name="MAIL_CITY">Everett</SimpleData>
+		<SimpleData name="ZIP">02149</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.039281261034958,42.4097030508687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">179</SimpleData>
+		<SimpleData name="GIS_ID">S123</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Worcester County House of Corrections</SimpleData>
+		<SimpleData name="SITE_TYPE">PRISON</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">5 Paul X. Tivnan Drive</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">321</SimpleData>
+		<SimpleData name="MAIL_CITY">West Boylston</SimpleData>
+		<SimpleData name="ZIP">01583</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.768449168932861,42.32297788165441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">180</SimpleData>
+		<SimpleData name="GIS_ID">S124</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Worcester East Middle School Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">420 Grafton Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01604</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.783584484904665,42.252580573099166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">181</SimpleData>
+		<SimpleData name="GIS_ID">S125</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Worcester Vocational Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">2 Grove Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01605</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.799618398813877,42.272910897407016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">182</SimpleData>
+		<SimpleData name="GIS_ID">S126</SimpleData>
+		<SimpleData name="MCHC_CODE">HCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Worthington Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">58 Old North Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">349</SimpleData>
+		<SimpleData name="MAIL_CITY">Worthington</SimpleData>
+		<SimpleData name="ZIP">01098</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.938015314303868,42.414156564964742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">183</SimpleData>
+		<SimpleData name="GIS_ID">S127</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Zinberg Clinic</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1493 Cambridge Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">The Cambridge Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02139</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.104091477101178,42.374482117050171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="GIS_ID">M34</SimpleData>
+		<SimpleData name="MCHC_CODE">LCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lowell Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">585 Merrimack Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">160</SimpleData>
+		<SimpleData name="MAIL_CITY">Lowell</SimpleData>
+		<SimpleData name="ZIP">01854</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.317290215741394,42.647703630267316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="GIS_ID">S9</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Broadway Medical Associates</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">454 Broadway</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">248</SimpleData>
+		<SimpleData name="MAIL_CITY">Revere</SimpleData>
+		<SimpleData name="ZIP">02151</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.011764855820459,42.4114358314866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="GIS_ID">S74</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHR</SimpleData>
+		<SimpleData name="SITE_NAME">MGH Revere HealthCare Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">300 Broadway</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">248</SimpleData>
+		<SimpleData name="MAIL_CITY">Revere</SimpleData>
+		<SimpleData name="ZIP">02151</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.013659773764871,42.408626749198504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="GIS_ID">S53</SimpleData>
+		<SimpleData name="MCHC_CODE">LCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lowell Metta Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">135 Jackson Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">160</SimpleData>
+		<SimpleData name="MAIL_CITY">Lowell</SimpleData>
+		<SimpleData name="ZIP">01852</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.310627939527961,42.642529962758111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="GIS_ID">M1</SimpleData>
+		<SimpleData name="MCHC_CODE">BSMC</SimpleData>
+		<SimpleData name="SITE_NAME">Baystate Medical Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">759 Chestnut Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">281</SimpleData>
+		<SimpleData name="MAIL_CITY">Springfield</SimpleData>
+		<SimpleData name="ZIP">01199</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.603323238528745,42.121311917143125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="GIS_ID">M2</SimpleData>
+		<SimpleData name="MCHC_CODE">BHCHP</SimpleData>
+		<SimpleData name="SITE_NAME">Boston Health Care for the Homeless Program, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">729 Massachusetts Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT">Boston Medical Center</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02118</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.073974213386734,42.334470725355231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="GIS_ID">M3</SimpleData>
+		<SimpleData name="MCHC_CODE">BSHC</SimpleData>
+		<SimpleData name="SITE_NAME">Bowdoin Street Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">230 Bowdoin Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02122</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.067832551889509,42.305870889086009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="GIS_ID">M4</SimpleData>
+		<SimpleData name="MCHC_CODE">BSMC-BHC</SimpleData>
+		<SimpleData name="SITE_NAME">Brightwood Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">380 Plainfield Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">281</SimpleData>
+		<SimpleData name="MAIL_CITY">Springfield</SimpleData>
+		<SimpleData name="ZIP">01107</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.614421820538865,42.117249410426282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="GIS_ID">M5</SimpleData>
+		<SimpleData name="MCHC_CODE">BNHC</SimpleData>
+		<SimpleData name="SITE_NAME">Brockton Neighborhood Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">157 Main Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">44</SimpleData>
+		<SimpleData name="MAIL_CITY">Brockton</SimpleData>
+		<SimpleData name="ZIP">02301</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.020350525151429,42.082398081310245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="GIS_ID">M6</SimpleData>
+		<SimpleData name="MCHC_CODE">BCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Brookside Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">3297 Washington Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Jamaica Plain</SimpleData>
+		<SimpleData name="ZIP">02130</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.104058046728397,42.310926967082445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="GIS_ID">M7</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Cambridge Health Alliance</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1493 Cambridge Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Cambridge Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02139</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.104091527197269,42.374482066806628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="GIS_ID">M8</SimpleData>
+		<SimpleData name="MCHC_CODE">CCFC</SimpleData>
+		<SimpleData name="SITE_NAME">Cape Cod Free Clinic &amp; Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">40 Steeple Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX">P.O. Box 394</SimpleData>
+		<SimpleData name="TOWN_ID">172</SimpleData>
+		<SimpleData name="MAIL_CITY">Mashpee</SimpleData>
+		<SimpleData name="ZIP">02649</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.492017644254474,41.616945799355037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="GIS_ID">M9</SimpleData>
+		<SimpleData name="MCHC_CODE">CHC-SSW</SimpleData>
+		<SimpleData name="SITE_NAME">Caring Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1145 Main Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">281</SimpleData>
+		<SimpleData name="MAIL_CITY">Springfield</SimpleData>
+		<SimpleData name="ZIP">01103</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.58468567556038,42.099100796122727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="GIS_ID">M10</SimpleData>
+		<SimpleData name="MCHC_CODE">CSHC</SimpleData>
+		<SimpleData name="SITE_NAME">Codman Square Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">637 Washington Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02124</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.071995890029569,42.289652109772753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="GIS_ID">M11</SimpleData>
+		<SimpleData name="MCHC_CODE">CHCFC</SimpleData>
+		<SimpleData name="SITE_NAME">Community Health Center of Franklin County, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">338 Montague City Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">192</SimpleData>
+		<SimpleData name="MAIL_CITY">Turners Falls</SimpleData>
+		<SimpleData name="ZIP">01376</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.576443071677375,42.586001413205373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="GIS_ID">M12</SimpleData>
+		<SimpleData name="MCHC_CODE">CHCB</SimpleData>
+		<SimpleData name="SITE_NAME">CHP Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">29 Lewis Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Fairview Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">113</SimpleData>
+		<SimpleData name="MAIL_CITY">Great Barrington</SimpleData>
+		<SimpleData name="ZIP">01230</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.371879611056414,42.191114235744536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="GIS_ID">M13</SimpleData>
+		<SimpleData name="MCHC_CODE">CHCF</SimpleData>
+		<SimpleData name="SITE_NAME">Community Health Connections Family Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">275 Nichols Road, Bullock Building, 6th floor</SimpleData>
+		<SimpleData name="ADDRESS_OT">UMASS Memorial - Health Alliance Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">97</SimpleData>
+		<SimpleData name="MAIL_CITY">Fitchburg</SimpleData>
+		<SimpleData name="ZIP">01420</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.80570560538257,42.597818044375117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="GIS_ID">M14</SimpleData>
+		<SimpleData name="MCHC_CODE">DCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Dimock Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">55 Dimock Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Roxbury</SimpleData>
+		<SimpleData name="ZIP">02119</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.097705956155096,42.319800496456224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="GIS_ID">M15</SimpleData>
+		<SimpleData name="MCHC_CODE">DHMSC</SimpleData>
+		<SimpleData name="SITE_NAME">Dorchester House Multi-Service Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1353 Dorchester Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02122</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.059956195965825,42.304423424250238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="GIS_ID">M16</SimpleData>
+		<SimpleData name="MCHC_CODE">DHC</SimpleData>
+		<SimpleData name="SITE_NAME">Duffy Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">105 Park Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">20</SimpleData>
+		<SimpleData name="MAIL_CITY">Hyannis</SimpleData>
+		<SimpleData name="ZIP">02601</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.274880821746436,41.655002627266022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="GIS_ID">M17</SimpleData>
+		<SimpleData name="MCHC_CODE">EBNHC</SimpleData>
+		<SimpleData name="SITE_NAME">East Boston Neighborhood Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">10 Gove Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">East Boston</SimpleData>
+		<SimpleData name="ZIP">02128</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.038182962748436,42.372266260882732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="GIS_ID">M18</SimpleData>
+		<SimpleData name="MCHC_CODE">FHCW</SimpleData>
+		<SimpleData name="SITE_NAME">Family Health Center of Worcester</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">26 Queen Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01610</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.814704457634505,42.259274895498187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="GIS_ID">M19</SimpleData>
+		<SimpleData name="MCHC_CODE">FCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Fenway Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">7 Haviland Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02115</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.08821341005941,42.346497622313535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="GIS_ID">M20</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC-FCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Framingham Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">19 Concord Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">100</SimpleData>
+		<SimpleData name="MAIL_CITY">Framingham</SimpleData>
+		<SimpleData name="ZIP">01702</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.416244654422968,42.277406569420805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="GIS_ID">M21</SimpleData>
+		<SimpleData name="MCHC_CODE">GGCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Geiger Gibson Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">250 Mount Vernon Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02125</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.046141547466192,42.319472632719283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="GIS_ID">M22</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Great Brook Valley Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">19 Tacoma Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01605</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.76606324249002,42.302319956015864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="GIS_ID">M23</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Greater Lawrence Family Health Center, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">34 Haverhill Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01841</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.151994262230772,42.711882236163724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="GIS_ID">M24</SimpleData>
+		<SimpleData name="MCHC_CODE">GNBCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Greater New Bedford Community Health Center, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">874 Purchase Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">201</SimpleData>
+		<SimpleData name="MAIL_CITY">New Bedford</SimpleData>
+		<SimpleData name="ZIP">02740</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.924977420020284,41.636353480581569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="GIS_ID">M25</SimpleData>
+		<SimpleData name="MCHC_CODE">GRMDC</SimpleData>
+		<SimpleData name="SITE_NAME">Greater Roslindale Medical &amp; Dental Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">6 Cummins Highway</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Roslindale</SimpleData>
+		<SimpleData name="ZIP">02131</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.127639151865964,42.286576743507183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="GIS_ID">M26</SimpleData>
+		<SimpleData name="MCHC_CODE">HHS</SimpleData>
+		<SimpleData name="SITE_NAME">Harbor Health Services</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">398 Neponset Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02122</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.044027671634581,42.286763569101367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="GIS_ID">M27</SimpleData>
+		<SimpleData name="MCHC_CODE">HSNHC</SimpleData>
+		<SimpleData name="SITE_NAME">Harvard Street Neighborhood Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">632 Blue Hill Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02121</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.085082200499826,42.302525400311197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="GIS_ID">M28</SimpleData>
+		<SimpleData name="MCHC_CODE">HSHS</SimpleData>
+		<SimpleData name="SITE_NAME">Health Services for the Homeless</SimpleData>
+		<SimpleData name="SITE_TYPE">ADMIN</SimpleData>
+		<SimpleData name="ADMIN_ONLY">Y</SimpleData>
+		<SimpleData name="ADDRESS">95 State Street, Suite 201</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">281</SimpleData>
+		<SimpleData name="MAIL_CITY">Springfield</SimpleData>
+		<SimpleData name="ZIP">01103</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.587546044293148,42.100259841104844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="GIS_ID">M29</SimpleData>
+		<SimpleData name="MCHC_CODE">HFFCC</SimpleData>
+		<SimpleData name="SITE_NAME">HealthFirst Family Care Center, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">102 County Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX">P.O. Box 5069</SimpleData>
+		<SimpleData name="TOWN_ID">95</SimpleData>
+		<SimpleData name="MAIL_CITY">Fall River</SimpleData>
+		<SimpleData name="ZIP">02723</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.138419405079162,41.695322316353248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="GIS_ID">M30</SimpleData>
+		<SimpleData name="MCHC_CODE">HCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Hilltown Community Health Centers, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">58 Old North Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">349</SimpleData>
+		<SimpleData name="MAIL_CITY">Worthington</SimpleData>
+		<SimpleData name="ZIP">01098</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.938015326984015,42.414156588216578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="GIS_ID">M31</SimpleData>
+		<SimpleData name="MCHC_CODE">HHC</SimpleData>
+		<SimpleData name="SITE_NAME">Holyoke Health Center, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">230 Maple Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX">P.O. Box 6260</SimpleData>
+		<SimpleData name="TOWN_ID">137</SimpleData>
+		<SimpleData name="MAIL_CITY">Holyoke</SimpleData>
+		<SimpleData name="ZIP">01040</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.608316733378103,42.207235387157468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="GIS_ID">M32</SimpleData>
+		<SimpleData name="MCHC_CODE">IHC</SimpleData>
+		<SimpleData name="SITE_NAME">Island Health Care</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">245 Edgartown Vineyard Haven Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX">P.O. Box 1619</SimpleData>
+		<SimpleData name="TOWN_ID">89</SimpleData>
+		<SimpleData name="MAIL_CITY">Edgartown</SimpleData>
+		<SimpleData name="ZIP">02539</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.53029306011409,41.39539568253705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="GIS_ID">M33</SimpleData>
+		<SimpleData name="MCHC_CODE">JMSCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Joseph M. Smith Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">287 Western Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Allston</SimpleData>
+		<SimpleData name="ZIP">02134</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.134391237575969,42.36369841374303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="GIS_ID">M35</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lynn Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">269 Union Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01901</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.943541715420864,42.465297907238977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="GIS_ID">M36</SimpleData>
+		<SimpleData name="MCHC_CODE">MCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Manet Community Health Center, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">110 West Squantum Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">243</SimpleData>
+		<SimpleData name="MAIL_CITY">North Quincy</SimpleData>
+		<SimpleData name="ZIP">02171</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.03083663440411,42.272600111697486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="GIS_ID">M37</SimpleData>
+		<SimpleData name="MCHC_CODE">MEHC</SimpleData>
+		<SimpleData name="SITE_NAME">Martha Eliot Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">75 Bickford Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Jamaica Plain</SimpleData>
+		<SimpleData name="ZIP">02130</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.102005343018519,42.324479319432861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="GIS_ID">M38</SimpleData>
+		<SimpleData name="MCHC_CODE">BSMC-MSHC</SimpleData>
+		<SimpleData name="SITE_NAME">Mason Square Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">11 Wilbraham Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">281</SimpleData>
+		<SimpleData name="MAIL_CITY">Springfield</SimpleData>
+		<SimpleData name="ZIP">01109</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.563199554926754,42.11103635481728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="GIS_ID">M39</SimpleData>
+		<SimpleData name="MCHC_CODE">MATCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Mattapan Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1425 Blue Hill Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Mattapan</SimpleData>
+		<SimpleData name="ZIP">02126</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.093892593800746,42.275551812791569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="GIS_ID">M40</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHBB</SimpleData>
+		<SimpleData name="SITE_NAME">MGH Back Bay HealthCare Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">388 Commonwealth Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02215</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.090078983322272,42.348629120185151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="GIS_ID">M41</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHCA</SimpleData>
+		<SimpleData name="SITE_NAME">MGH Community Health Associates</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">300 Ocean Avenue, 5th Floor</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">248</SimpleData>
+		<SimpleData name="MAIL_CITY">Revere</SimpleData>
+		<SimpleData name="ZIP">02151</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.992080118231911,42.40793647104762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="GIS_ID">M42</SimpleData>
+		<SimpleData name="MCHC_CODE">MUCCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Mid-Upper Cape Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">30 Elm Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">20</SimpleData>
+		<SimpleData name="MAIL_CITY">Hyannis</SimpleData>
+		<SimpleData name="ZIP">02601</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.282238468414945,41.655234808237303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="GIS_ID">M43</SimpleData>
+		<SimpleData name="MCHC_CODE">NHC</SimpleData>
+		<SimpleData name="SITE_NAME">Neponset Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">398 Neponset Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02122</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.044027671634581,42.286763569101367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="GIS_ID">M44</SimpleData>
+		<SimpleData name="MCHC_CODE">NECHC</SimpleData>
+		<SimpleData name="SITE_NAME">North End Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">332 Hanover Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02113</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.053700361640736,42.364849872701157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="GIS_ID">M45</SimpleData>
+		<SimpleData name="MCHC_CODE">NSCHC</SimpleData>
+		<SimpleData name="SITE_NAME">North Shore Community Health, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">47 Congress Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">258</SimpleData>
+		<SimpleData name="MAIL_CITY">Salem</SimpleData>
+		<SimpleData name="ZIP">01970</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.889167301840018,42.517725333967675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="GIS_ID">M46</SimpleData>
+		<SimpleData name="MCHC_CODE">OCHS</SimpleData>
+		<SimpleData name="SITE_NAME">Outer Cape Health Services, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">ADMIN</SimpleData>
+		<SimpleData name="ADMIN_ONLY">Y</SimpleData>
+		<SimpleData name="ADDRESS">260 Cranberry Highway</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">224</SimpleData>
+		<SimpleData name="MAIL_CITY">Orleans</SimpleData>
+		<SimpleData name="ZIP">02653</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.007570406316148,41.776134549939776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="GIS_ID">M47</SimpleData>
+		<SimpleData name="MCHC_CODE">RoxComp</SimpleData>
+		<SimpleData name="SITE_NAME">Roxbury Comprehensive Community Health Center, Inc.</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">435 Warren Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Roxbury</SimpleData>
+		<SimpleData name="ZIP">02119</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.083043222386792,42.317246540455336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="GIS_ID">M48</SimpleData>
+		<SimpleData name="MCHC_CODE">SBJCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Sidney Borum Jr. Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">130 Boylston Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02116</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.066060925734504,42.352269130202352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="GIS_ID">M49</SimpleData>
+		<SimpleData name="MCHC_CODE">SBCHC</SimpleData>
+		<SimpleData name="SITE_NAME">South Boston Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">409 West Broadway</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">South Boston</SimpleData>
+		<SimpleData name="ZIP">02127</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.048187712284275,42.336854824142826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="GIS_ID">M50</SimpleData>
+		<SimpleData name="MCHC_CODE">SCCHC</SimpleData>
+		<SimpleData name="SITE_NAME">South Cove Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">145 South Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02111</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.057659535974764,42.35088458324914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="GIS_ID">M51</SimpleData>
+		<SimpleData name="MCHC_CODE">SECHC</SimpleData>
+		<SimpleData name="SITE_NAME">South End Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1601 Washington Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Boston</SimpleData>
+		<SimpleData name="ZIP">02118</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.074989052551885,42.338438320099272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="GIS_ID">M52</SimpleData>
+		<SimpleData name="MCHC_CODE">SJPHC</SimpleData>
+		<SimpleData name="SITE_NAME">Southern Jamaica Plain Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">640 Centre Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Jamaica Plain</SimpleData>
+		<SimpleData name="ZIP">02130</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.113676100324881,42.313295000898108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="GIS_ID">M53</SimpleData>
+		<SimpleData name="MCHC_CODE">SSTAR</SimpleData>
+		<SimpleData name="SITE_NAME">SSTAR Family Healthcare Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">386 Stanley Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">95</SimpleData>
+		<SimpleData name="MAIL_CITY">Fall River</SimpleData>
+		<SimpleData name="ZIP">02720</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.136247371800039,41.715162437599787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="GIS_ID">M54</SimpleData>
+		<SimpleData name="MCHC_CODE">TRFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Tri-River Family Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">281 East Hartford Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">304</SimpleData>
+		<SimpleData name="MAIL_CITY">Uxbridge</SimpleData>
+		<SimpleData name="ZIP">01569</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.623518377797978,42.096652334063627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="GIS_ID">M55</SimpleData>
+		<SimpleData name="MCHC_CODE">UCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Upham's Corner Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">415 Columbia Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02125</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.068665111564613,42.311938242474476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="GIS_ID">M56</SimpleData>
+		<SimpleData name="MCHC_CODE">WSHC</SimpleData>
+		<SimpleData name="SITE_NAME">Whittier Street Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1125 Tremont Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Roxbury</SimpleData>
+		<SimpleData name="ZIP">02120</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">N</SimpleData>
+		<SimpleData name="EYE">Y</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.088200083884118,42.335587336550674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="GIS_ID">S1</SimpleData>
+		<SimpleData name="MCHC_CODE">FHCW</SimpleData>
+		<SimpleData name="SITE_NAME">All School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">15 Claremont Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Accelerated Learning Lab</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01610</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.818493258398149,42.254734725975993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="GIS_ID">S2</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Alternative School Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">22 Waverly Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01604</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.793618654667327,42.256023831666283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="GIS_ID">S3</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Anna May Powers Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">20 Nichols Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Keverian-Hamilton School</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">93</SimpleData>
+		<SimpleData name="MAIL_CITY">Everett</SimpleData>
+		<SimpleData name="ZIP">02149</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.044854590508209,42.408904490866732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="GIS_ID">S4</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Area Health Education Center - Merrimack Valley</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1 Canal Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01840</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.147736492359414,42.707748618101704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="GIS_ID">S5</SimpleData>
+		<SimpleData name="MCHC_CODE">LCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Bartlett Middle School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">79 Wannalancit Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">160</SimpleData>
+		<SimpleData name="MAIL_CITY">Lowell</SimpleData>
+		<SimpleData name="ZIP">01854</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.328948049520918,42.645525710778479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="GIS_ID">S6</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Breed Middle School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">90 O'Callaghan Way</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01905</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.984554108822053,42.470629080479505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="GIS_ID">S7</SimpleData>
+		<SimpleData name="MCHC_CODE">SCCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Brighton/Allston Afterschool Enrichment Program (BASE)</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">5 Saint Luke's Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Allston</SimpleData>
+		<SimpleData name="ZIP">02134</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.127191897850437,42.351947200556836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="GIS_ID">S8</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Broadway Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">300 Broadway</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">274</SimpleData>
+		<SimpleData name="MAIL_CITY">Somerville</SimpleData>
+		<SimpleData name="ZIP">02145</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.092997673314088,42.392119514557919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="GIS_ID">S10</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Broadway Prevention &amp; Education Unit</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">208 Broadway</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01840</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.170448375585423,42.707460305983361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="GIS_ID">S11</SimpleData>
+		<SimpleData name="MCHC_CODE">BNHC</SimpleData>
+		<SimpleData name="SITE_NAME">Brockton Neighborhood Health Center - Dental Office</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">231 Main Street, 2nd Floor</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">44</SimpleData>
+		<SimpleData name="MAIL_CITY">Brockton</SimpleData>
+		<SimpleData name="ZIP">02301</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.020346599550834,42.080697461568342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="GIS_ID">S12</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Burncoat School Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">135 Burncoat Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01606</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.788816780060515,42.296727214761944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="GIS_ID">S13</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Cambridge Family Health</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">237 Hampshire Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Inman Square</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02139</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.100896557189913,42.37401749252335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="GIS_ID">S14</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Cambridge Family Health North</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">2067 Massachusetts Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT">Porter Square</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02140</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.122994124509503,42.391629967796547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="GIS_ID">S15</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Cambridge Health Alliance Birth Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1493 Cambridge Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">The Cambridge Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02139</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.104091477101178,42.374482117050171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="GIS_ID">S16</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Cambridge Pediatrics</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1493 Cambridge Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">The Cambridge Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02139</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.104091477101178,42.374482117050171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="GIS_ID">S17</SimpleData>
+		<SimpleData name="MCHC_CODE">CCFC</SimpleData>
+		<SimpleData name="SITE_NAME">Cape Cod Free Clinic &amp; Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">65C Town Hall Square</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">96</SimpleData>
+		<SimpleData name="MAIL_CITY">Falmouth</SimpleData>
+		<SimpleData name="ZIP">02540</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.618281176425796,41.551520825510288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="GIS_ID">S18</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Center for Health Improvement</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">160 Garden Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01840</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.155985588610562,42.709082525135628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="GIS_ID">S19</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Central Street Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">26 Central Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">274</SimpleData>
+		<SimpleData name="MAIL_CITY">Somerville</SimpleData>
+		<SimpleData name="ZIP">02143</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.10602138725551,42.38500800850467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="GIS_ID">S20</SimpleData>
+		<SimpleData name="MCHC_CODE">MGHR</SimpleData>
+		<SimpleData name="SITE_NAME">Chelsea High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">299 Everett Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">57</SimpleData>
+		<SimpleData name="MAIL_CITY">Chelsea</SimpleData>
+		<SimpleData name="ZIP">02150</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.040372907730017,42.398756015802029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="GIS_ID">S21</SimpleData>
+		<SimpleData name="MCHC_CODE">HHC</SimpleData>
+		<SimpleData name="SITE_NAME">Chicopee Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">203 Exchange Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Market Square</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">61</SimpleData>
+		<SimpleData name="MAIL_CITY">Chicopee</SimpleData>
+		<SimpleData name="ZIP">01013</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.608714894725736,42.148037914546855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="GIS_ID">S22</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Classical High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">235 O'Callagham Way</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01905</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.984579579470051,42.46750856472147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="GIS_ID">S23</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Clinton Satellite Dental Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">200 High Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">64</SimpleData>
+		<SimpleData name="MAIL_CITY">Clinton</SimpleData>
+		<SimpleData name="ZIP">01510</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.684897823432181,42.41895316985407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="GIS_ID">S24</SimpleData>
+		<SimpleData name="MCHC_CODE">CSHC</SimpleData>
+		<SimpleData name="SITE_NAME">Codman Square Youth &amp; Technology Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">450 Washington Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02124</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.071856619971769,42.295870890461408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="GIS_ID">S25</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Dental Clinic at Quinsigamond Community College</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">670 West Boylston Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01606</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.794927320477925,42.313766357725285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="GIS_ID">S26</SimpleData>
+		<SimpleData name="MCHC_CODE">CSHC</SimpleData>
+		<SimpleData name="SITE_NAME">Dorchester High School Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">9 Peacevale Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02124</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.075920159608742,42.28515982001641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="GIS_ID">S27</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">East Cambridge Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">163 Gore Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">49</SimpleData>
+		<SimpleData name="MAIL_CITY">Cambridge</SimpleData>
+		<SimpleData name="ZIP">02141</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.085390046873641,42.373117585941657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="GIS_ID">S28</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">East Somerville Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">42 Cross Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">274</SimpleData>
+		<SimpleData name="MAIL_CITY">Somerville</SimpleData>
+		<SimpleData name="ZIP">02145</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.086915838812899,42.386715435627053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="GIS_ID">S29</SimpleData>
+		<SimpleData name="MCHC_CODE">GGCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Ellen Jones Community Dental Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">351 Pleasant Lake Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT">Cape Cod Regional Voc Tech</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">126</SimpleData>
+		<SimpleData name="MAIL_CITY">Harwich</SimpleData>
+		<SimpleData name="ZIP">02645</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.075603003021016,41.711033354997504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="GIS_ID">S30</SimpleData>
+		<SimpleData name="MCHC_CODE">CHC-SSW</SimpleData>
+		<SimpleData name="SITE_NAME">Forest Park</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">532 Sumner Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">281</SimpleData>
+		<SimpleData name="MAIL_CITY">Springfield</SimpleData>
+		<SimpleData name="ZIP">01108</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.556941364532875,42.086596654051405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="GIS_ID">S31</SimpleData>
+		<SimpleData name="MCHC_CODE">CHCF</SimpleData>
+		<SimpleData name="SITE_NAME">Gardner Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">242 Green Street, Suite 205A</SimpleData>
+		<SimpleData name="ADDRESS_OT">Heywood Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">103</SimpleData>
+		<SimpleData name="MAIL_CITY">Gardner</SimpleData>
+		<SimpleData name="ZIP">01440</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.987122471509849,42.586303988462625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="GIS_ID">S32</SimpleData>
+		<SimpleData name="MCHC_CODE">HCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Gateway Regional High School-based Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">12 Littleville Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">143</SimpleData>
+		<SimpleData name="MAIL_CITY">Huntington</SimpleData>
+		<SimpleData name="ZIP">01050</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.870070304813041,42.251247286774458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="GIS_ID">S33</SimpleData>
+		<SimpleData name="MCHC_CODE">FHCW</SimpleData>
+		<SimpleData name="SITE_NAME">Goddard/University Park School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">14 Richard Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01603</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.824219504889129,42.248213492179843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="GIS_ID">S34</SimpleData>
+		<SimpleData name="MCHC_CODE">GBVHC</SimpleData>
+		<SimpleData name="SITE_NAME">Great Brook Valley Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">30 Great Brook Valley Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01605</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.764869490079889,42.302916744919891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="GIS_ID">S35</SimpleData>
+		<SimpleData name="MCHC_CODE">FHCW</SimpleData>
+		<SimpleData name="SITE_NAME">Great Brook Valley Health Center WIC Office</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">19 Tacoma Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">348</SimpleData>
+		<SimpleData name="MAIL_CITY">Worcester</SimpleData>
+		<SimpleData name="ZIP">01605</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.766063186528029,42.302319914731939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="GIS_ID">S36</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Greater Lawrence Family Health Center - Essex Street Clinic West</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">700 Essex Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01841</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.172061263940947,42.701923875330017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="GIS_ID">S37</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Greater Lawrence Family Health Center - Park Street Clinic North</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">150 Park Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01841</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.166331304382183,42.716003336190582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="GIS_ID">S38</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Greater Lawrence Family Health Center - South</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">130 Park Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01841</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.166331304382183,42.716003336190582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="GIS_ID">S39</SimpleData>
+		<SimpleData name="MCHC_CODE">DHMSC</SimpleData>
+		<SimpleData name="SITE_NAME">Grover Cleveland Middle School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">11 Charles Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Dorchester</SimpleData>
+		<SimpleData name="ZIP">02122</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.061232266392466,42.300926702110509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="GIS_ID">S40</SimpleData>
+		<SimpleData name="MCHC_CODE">GGCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Harbor Family Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">37 Devine Way</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">South Boston</SimpleData>
+		<SimpleData name="ZIP">02127</SimpleData>
+		<SimpleData name="METHOD">G</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.055228798367054,42.328484259576904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="GIS_ID">S41</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Health Center at Greater Lawrence Technical School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">57 River Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">9</SimpleData>
+		<SimpleData name="MAIL_CITY">Andover</SimpleData>
+		<SimpleData name="ZIP">01810</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.195484662565036,42.690767340170957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="GIS_ID">S42</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Health Center at South Lawrence East School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">165 Crawford Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01843</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.146939795204901,42.694164830685324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="GIS_ID">S43</SimpleData>
+		<SimpleData name="MCHC_CODE">HSHS</SimpleData>
+		<SimpleData name="SITE_NAME">Health Services for the Homeless Dental Clinic</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">91 East Mountain Road</SimpleData>
+		<SimpleData name="ADDRESS_OT">Western Massachusetts Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">329</SimpleData>
+		<SimpleData name="MAIL_CITY">Westfield</SimpleData>
+		<SimpleData name="ZIP">01085</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.700650571951897,42.110231240841699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="GIS_ID">S44</SimpleData>
+		<SimpleData name="MCHC_CODE">HCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Huntington Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">73 Russell Road</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">143</SimpleData>
+		<SimpleData name="MAIL_CITY">Huntington</SimpleData>
+		<SimpleData name="ZIP">01050</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.870891977635125,42.22442704079198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="GIS_ID">S45</SimpleData>
+		<SimpleData name="MCHC_CODE">MATCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Hyde Park High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">655 Metropolitan Avenue</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">35</SimpleData>
+		<SimpleData name="MAIL_CITY">Hyde Park</SimpleData>
+		<SimpleData name="ZIP">02136</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.117894986503586,42.262926410220039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="GIS_ID">S46</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Ingalls Elementary School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">One Collins Terrace</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01902</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.936831603710857,42.471673922467289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="GIS_ID">S47</SimpleData>
+		<SimpleData name="MCHC_CODE">CHA</SimpleData>
+		<SimpleData name="SITE_NAME">Internal Medicine Associates</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">236 Highland Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT">Medical Arts Building</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">274</SimpleData>
+		<SimpleData name="MAIL_CITY">Somerville</SimpleData>
+		<SimpleData name="ZIP">02143</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.109002234719497,42.390412513138003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="GIS_ID">S48</SimpleData>
+		<SimpleData name="MCHC_CODE">SCCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Khmer Youth &amp; Family Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">191 North Common Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01905</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.962776830455326,42.463330533870177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="GIS_ID">S49</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lawrence Family Planning</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">101 Amesbury Street, Suite 103</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01840</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.163771441473074,42.708761640372479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="GIS_ID">S50</SimpleData>
+		<SimpleData name="MCHC_CODE">GLFHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lawrence High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">233 Haverhill Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">149</SimpleData>
+		<SimpleData name="MAIL_CITY">Lawrence</SimpleData>
+		<SimpleData name="ZIP">01840</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.163481465006697,42.71046727903952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="GIS_ID">S51</SimpleData>
+		<SimpleData name="MCHC_CODE">LCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lowell Adult Medicine/HIV Services</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">585 Merrimack Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">160</SimpleData>
+		<SimpleData name="MAIL_CITY">Lowell</SimpleData>
+		<SimpleData name="ZIP">01854</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.317290197598737,42.647703578926588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="GIS_ID">S52</SimpleData>
+		<SimpleData name="MCHC_CODE">LCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lowell Inpatient Addiction Treatment Services</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">365 East Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Tewksbury Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">295</SimpleData>
+		<SimpleData name="MAIL_CITY">Tewksbury</SimpleData>
+		<SimpleData name="ZIP">01876</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.218080289276685,42.606947231045673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="GIS_ID">S54</SimpleData>
+		<SimpleData name="MCHC_CODE">LCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lowell Prenatal &amp; Women's Services</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">15-17 Warren Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">160</SimpleData>
+		<SimpleData name="MAIL_CITY">Lowell</SimpleData>
+		<SimpleData name="ZIP">01852</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.307691045785532,42.643104657451623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="GIS_ID">S55</SimpleData>
+		<SimpleData name="MCHC_CODE">LCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lowell Transitional Living Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">189 Middlesex Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">160</SimpleData>
+		<SimpleData name="MAIL_CITY">Lowell</SimpleData>
+		<SimpleData name="ZIP">01852</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.31214756230537,42.641077754503883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="GIS_ID">S56</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lynn Community Health Center Dental Clinic</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">232 Union Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01901</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.942665481441225,42.465554112847734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="GIS_ID">S57</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lynn English High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">50 Goodridge Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01902</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.943591745975823,42.476983511377675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="GIS_ID">S58</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Lynn Vocational Technical High School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">80 Neptune Boulevard</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01902</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.954777823985893,42.45971509460891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="GIS_ID">S59</SimpleData>
+		<SimpleData name="MCHC_CODE">BNHC</SimpleData>
+		<SimpleData name="SITE_NAME">Mainspring House Homeless Shelter</SimpleData>
+		<SimpleData name="SITE_TYPE">HOMELESS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">54 North Main Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">44</SimpleData>
+		<SimpleData name="MAIL_CITY">Brockton</SimpleData>
+		<SimpleData name="ZIP">02301</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.020132467227199,42.086695996583742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="GIS_ID">S60</SimpleData>
+		<SimpleData name="MCHC_CODE">MCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Manet Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">180 George Washington Blvd</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">142</SimpleData>
+		<SimpleData name="MAIL_CITY">Hull</SimpleData>
+		<SimpleData name="ZIP">02045</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.860622707897207,42.263032702040796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="GIS_ID">S61</SimpleData>
+		<SimpleData name="MCHC_CODE">MCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Manet Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">9 Bicknell Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Snug Harbor</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">243</SimpleData>
+		<SimpleData name="MAIL_CITY">Quincy</SimpleData>
+		<SimpleData name="ZIP">02169</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.965785983118309,42.252222046017813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="GIS_ID">S62</SimpleData>
+		<SimpleData name="MCHC_CODE">MCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Manet Community Health Center</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1193 Sea Street</SimpleData>
+		<SimpleData name="ADDRESS_OT">Hough's Neck</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">243</SimpleData>
+		<SimpleData name="MAIL_CITY">Quincy</SimpleData>
+		<SimpleData name="ZIP">02169</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.952609468230492,42.268825784742724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="GIS_ID">S63</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Market Square Family Health Services</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">29 Market Square</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01905</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.964165376017746,42.463012642149401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="GIS_ID">S64</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Market Square Family Health Services</SimpleData>
+		<SimpleData name="SITE_TYPE">NOS</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">694 Western Ave</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01905</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.964107970263171,42.463489609371869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="GIS_ID">S65</SimpleData>
+		<SimpleData name="MCHC_CODE">LYCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Marshall Middle School</SimpleData>
+		<SimpleData name="SITE_TYPE">SCHOOL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">19 Porter Street</SimpleData>
+		<SimpleData name="ADDRESS_OT"></SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">163</SimpleData>
+		<SimpleData name="MAIL_CITY">Lynn</SimpleData>
+		<SimpleData name="ZIP">01902</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.933069308600537,42.473678794749034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#community_health_centers">
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="GIS_ID">S66</SimpleData>
+		<SimpleData name="MCHC_CODE">GGCHC</SimpleData>
+		<SimpleData name="SITE_NAME">Martha's Vineyard Community Dental Center</SimpleData>
+		<SimpleData name="SITE_TYPE">HOSPITAL</SimpleData>
+		<SimpleData name="ADMIN_ONLY">N</SimpleData>
+		<SimpleData name="ADDRESS">1 Hospital Road</SimpleData>
+		<SimpleData name="ADDRESS_OT">Martha's Vineyard Hospital</SimpleData>
+		<SimpleData name="PO_BOX"></SimpleData>
+		<SimpleData name="TOWN_ID">221</SimpleData>
+		<SimpleData name="MAIL_CITY">Oak Bluffs</SimpleData>
+		<SimpleData name="ZIP">02557</SimpleData>
+		<SimpleData name="METHOD">R</SimpleData>
+		<SimpleData name="SATELLITE">Y</SimpleData>
+		<SimpleData name="EYE">N</SimpleData>
+		<SimpleData name="DENTAL">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.580036696253543,41.46026449992673</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
