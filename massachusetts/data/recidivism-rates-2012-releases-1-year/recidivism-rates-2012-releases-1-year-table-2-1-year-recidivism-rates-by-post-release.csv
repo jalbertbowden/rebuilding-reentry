@@ -1,0 +1,6 @@
+Supervision Type,Males Number Releases,Males Recidivism Rate,Females Number Releases,Females Recidivism Rates,Total Number Releases,Total Recidivism Rate
+Parole Only,254,31%,83,33%,337,31%
+Probation Only,645,16%,161,19%,806,17%
+Both Parole and Probation,161,30%,55,27%,216,30%
+No Supervision,725,8%,270,9%,995,8%
+Total Releases,"1,785",16%,569,17%,"2,354",16%

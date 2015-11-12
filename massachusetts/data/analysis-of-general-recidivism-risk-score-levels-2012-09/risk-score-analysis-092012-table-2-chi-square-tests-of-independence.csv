@@ -1,0 +1,4 @@
+Test Used,Test Statistic,df,P-value
+Mantel-Haenszel,35.159,1,0.000
+Likelihood Ratio (Low- to Mid-risk) ,4.600,1,0.032
+Likelihood Ratio (Mid- to High-risk) ,13.721,1,0.000
